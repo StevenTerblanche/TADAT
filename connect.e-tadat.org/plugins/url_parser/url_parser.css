@@ -1,0 +1,30 @@
+.link-container {
+width: 100%;
+overflow: auto;
+}
+.link-poster {
+padding: 10px;
+float: left;
+}
+.link-poster img {
+width: 160px;
+}
+.link-content {
+width: 100%;
+box-sizing: border-box;
+padding: 10px 10px 10px 180px;
+}
+.link-no-image {
+padding: 10px;
+}
+.link-title {
+font-size: 14px;
+font-weight: bold;
+}
+.link-description, .link-url {
+padding-top: 5px;
+}
+.link-url {
+font-weight: bold;
+color: #999;
+}

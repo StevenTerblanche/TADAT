@@ -1,0 +1,1017 @@
+
+body{
+	font-family: "Quattrocento Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+
+@page{
+	margin-left: 15px !important;
+	margin-right: 15px !important;	
+}
+
+.pdf-body-full{
+	width:795px !important; 
+	margin-top: -45px !important;		
+	margin-left: -15px !important;
+	margin-right: -15px !important;	
+	page-break-after:always !important; 
+}
+
+.pdf-body-wide{
+	width:740px !important; 
+	margin-top: -45px !important;		
+	margin-left: 15px !important;
+	margin-right: 0px !important;	
+	page-break-after:always !important; 
+}
+
+.pdf-body{
+	margin-top: -45px !important;		
+	margin-left: 60px !important;
+	margin-right: 60px !important;	
+	width:655px !important; 
+	page-break-after:always !important;
+}
+
+.pdf-first-page-wrapper{
+	margin-left: -15px !important;
+	margin-right: -15px !important;	
+	margin-top: -45px !important;
+	margin-bottom: -45px !important;
+	padding:0px !important;
+	width:795px !important;
+	height:1121px !important;
+	background-color:#fff !important;
+	page-break-after:always !important; 	
+}
+.pdf-first-page-logo{
+	height:482px !important;
+	background-color:#fff !important;
+}
+.pdf-first-page-wheel{
+	width:795px !important;
+	height:640px !important;
+	margin:0px !important;
+	margin-bottom: -45px !important;	
+	padding:0px !important;
+	top:0px !important;
+	background-image:url('http://www.e-tadat.org/public_assets/reporting/images/par-frontpage-bottom.jpg'); background-repeat:no-repeat; background-position: top !important;
+	background-color:#fff !important;
+}
+
+.pdf-first-page-title{
+	width:670px !important;
+	font-size:60px;
+	font-weight:bold !important;	
+	color:#FFF !important;
+	text-align:right !important;
+	margin-right:120px !important;
+	padding-top:130px !important
+}
+.pdf-first-page-country{
+	width:670px !important;
+	font-size:30px;
+	font-weight:bold !important;
+	color:#FFF !important;
+	text-align:right !important;
+	margin-right:120px !important;
+	padding-top:30px !important
+}
+.pdf-first-page-team{
+	width:670px !important;
+	font-size:20px;
+	font-weight:bold !important;
+	color:#FFF !important;
+	text-align:right !important;
+	margin-right:120px !important;
+	padding-top:30px !important
+}
+.pdf-first-page-date{
+	width:670px !important;
+	font-size:25px;
+	font-weight:bold !important;
+	color:#FFF !important;
+	text-align:right !important;
+	margin-right:120px !important;
+	padding-top:30px !important
+}
+
+
+
+.pdf-header-image{
+	margin-left: -15px !important;
+	margin-right: -15px !important;	
+	margin-top: -45px !important;		
+	height:40px !important; 
+	width:795px !important;
+  
+}
+
+*::before, *::after {box-sizing: border-box;}
+*::before, *::after {box-sizing: border-box;}
+.pr0 {padding-right: 0 !important;}
+.pl0 {padding-left: 0 !important;}
+
+.col-lg-12, .col-md-12 {width: 650px !important;}
+.col-lg-6, .col-md-6 {width: 325px !important;}
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {float: left;}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {float: left;}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    min-height: 1px;
+    padding-left: 0px;
+    padding-right: 0px;
+	float:left !important;
+	display:inline-block;
+}
+* {
+    box-sizing: border-box;
+    outline: medium none !important;
+}
+
+
+	.par-full-width-div{
+		width:655px !important;
+		clear: left !important;
+	}
+	
+	.par-heading-half-width-div{
+		width:325px !important;
+		margin-top:0px !important;
+		margin-bottom:10px !important;
+		float:none !important;	
+	}
+	
+	.par-heading-full-width-div{
+		width:655px !important;
+		margin-top:10px !important;
+		margin-bottom:0px !important;
+		display:block !important;
+		float:none !important;	
+	}
+
+	.par-heading-full-width-div h1{
+		font-size:20px !important;
+		margin-top:0px !important;
+		margin-bottom:0px !important;		
+		color:#1075ba !important;
+		padding:0px !important;
+		font-weight:bold !important;
+	}
+	.par-heading-full-width-div h2{
+		font-size:12px !important;
+		color:#1075ba !important;
+		margin-top:8px !important;
+		margin-bottom:0px !important;
+		padding:0px !important;
+		padding-top:5px !important;		
+		font-weight:bold !important;
+	}
+
+	.par-heading-full-width-div h3{
+		font-size:14px !important;
+		color:#1075ba !important;
+		margin-top:8px !important;
+		margin-bottom:0px !important;
+		padding:0px !important;
+		padding-top:5px !important;		
+		font-weight:bold !important;
+	}
+	
+	.par-heading-half-width-div h1{
+		font-size:14px !important;
+		color:#1075ba !important;
+		padding:8px !important;
+		padding-left:0px !important;
+		padding-top:20px !important;
+		margin:0px !important;
+		font-weight:bold !important;
+	}
+	.par-heading-half-width-div h2{
+		font-size:14px !important;
+		color:#1075ba !important;
+		padding:8px !important;
+		padding-left:0px !important;		
+		padding-top:20px !important;
+		margin:0px !important;
+		font-weight:bold !important;
+	}
+	
+
+/*------------------------------- INTRODUCTION --------------------------*/
+#introduction-div ul>li{
+	margin-bottom:10px !important}
+
+
+
+/*------------------------------- EXECUTIVE SUMMARY --------------------------*/
+#table-executive-1{
+	width:736px !important;
+	padding:2px !important;
+	font-size:10px !important;
+}
+
+#table-executive-1 td{
+	padding:2px !important;
+	padding-left:7px !important;
+	border:1px #FFF solid !important;
+	background-color:#dcf0f4 !important;
+}
+
+#table-executive-1 th{
+	font-size:12px !important;
+	background-color:#1075ba !important;
+	border:1px #FFF solid !important;
+	color:#FFF !important;
+	padding:4px !important;
+	text-align:center;
+	font-weight:bold !important;
+}
+
+
+#table-executive-1 .poa-heading{
+	font-size:12px !important;
+	background-color:#68c9d2 !important; 
+	color:#FFF !important;
+	text-align:left !important;
+	font-weight:bold !important;
+} 
+
+#table-executive-1 .center{
+	text-align:center !important;
+} 
+
+
+/*--------------------------------------TABLE OF CONTENTS------------------------------------------------*/
+#t-o-c {
+	list-style: none;
+	margin-bottom: 10px;
+	margin-left:0px !important;
+	padding-left:0px !important;
+	
+}
+#t-o-c li {
+	background: url("http://www.e-tadat.org/public_assets/reporting/images/dot.gif") repeat-x bottom left;
+	overflow: hidden;
+	padding-bottom: 2px;
+}
+
+.no-leader {
+	color: #0f77bd !important;
+	text-decoration:none !important;
+	padding-left:2px;
+	padding-right:0px;	
+	padding-top:3px;		
+	padding-bottom:6px;		
+	background: none !important;	
+}
+
+#t-o-c a,
+#t-o-c span {
+	display: inline-block;
+	text-decoration:none !important;
+	color: #0f77bd !important;	
+	background: #fff;
+	position: relative;
+	bottom: -4px;
+	font-size:12px !important;
+}
+#t-o-c li span {
+	margin-bottom:0px !important;
+
+}
+
+#t-o-c a {
+	float: right;
+	padding: 0 0 3px 2px;
+}
+#t-o-c span {
+	float: left;
+	padding: 0 2px 3px 0;
+}
+
+.table-without-border, .table-without-border td{
+	border:1px solid #BBB;
+}
+
+/*---------------------------GENEREAL ASSETS---------------------------*/
+.editable{ color:#069 !important; font-style:italic !important}
+
+.panel-par-bg {
+   	background: url("images/par_coloured_header-web.jpg") repeat-x bottom left;
+    border-color: #125b8c !important;
+    color: #fff !important;
+}
+.col-md-6-par{ padding-left:0px !important}
+
+
+
+#mceu_0{ color:#900 !important}
+#par-attention-text p{ color:#900 !important}
+
+
+/*------------------------------RADAR CHART AND LEGEND TABLE -----------------------------------------*/
+#chart-body { 
+	width:740px !important;
+	height:830px !important;
+	margin:0px !important;
+	padding:0px !important; 
+}
+
+#chart{
+	margin:0px !important;
+	padding:0px !important;
+	height:830px !important;
+	width:490px !important;	
+	float:left !important;
+	display:inline-block;
+
+}
+#chart img{
+	margin:0px !important;
+	padding:0px !important;
+	float:left !important;
+	width:490px !important;
+	height:490px !important;
+}
+
+#div-legend{
+	float:left !important;
+	margin:0px !important;
+	margin-top:5px !important;
+	padding:0px !important;	
+	height:830px !important; 
+	width:240px !important; 
+	display:inline-block;
+}
+
+#table-executive-legend{
+	width:240px !important;
+    border-collapse: separate;
+    border-spacing: 0px;
+	font-size: 8px !important;
+}
+
+.table-executive-small-legend{
+	height:7px !important;
+	width:7px !important;	
+}
+
+.table-executive-legend-heading{
+	color: #1075ba !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+
+.legend-poa-heading{
+	font-size:9px !important;
+	font-weight:bold !important;
+}
+/* -------------------- POA 1 ----------------------------- */
+#table-executive-legend tr:nth-child(2) td:nth-child(1) div{
+	background-color:#0a9345 !important;
+	height:12px !important;
+	width:12px !important;
+	margin-right:5px !important;	
+}
+
+#table-executive-legend tr:nth-child(3) td:nth-child(2) div{
+	background-color:#0a9345 !important;
+	height:8px !important;
+	width:8px !important;
+}
+
+#table-executive-legend tr:nth-child(3) td:nth-child(2){
+	height:10px !important;
+	width:10px !important;
+}
+
+#table-executive-legend tr:nth-child(3) td:nth-child(3){
+	width:24px !important;
+}
+
+#table-executive-legend tr:nth-child(3) td:nth-child(4){
+	width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+}
+
+
+#table-executive-legend tr:nth-child(4) td:nth-child(2) div{
+	background-color:#0a9345 !important;
+	height:8px !important;
+	width:8px !important;
+}
+
+#table-executive-legend tr:nth-child(4) td:nth-child(2){
+	height:10px !important;
+	width:10px !important;
+}
+
+#table-executive-legend tr:nth-child(4) td:nth-child(3){
+	width:24px !important;
+}
+
+#table-executive-legend tr:nth-child(4) td:nth-child(4){
+		width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+}
+
+/* -------------------- POA 2 ----------------------------- */
+#table-executive-legend tr:nth-child(5) td:nth-child(1) div{
+	background-color:#8ac543 !important;
+	height:12px !important;
+	width:12px !important;
+	margin-right:5px !important;			
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(6) td:nth-child(2) div{
+		background-color:#8ac543 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(6) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(6) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(6) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(7) td:nth-child(2) div{
+		background-color:#8ac543 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(7) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(7) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(7) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(8) td:nth-child(2) div{
+		background-color:#8ac543 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(8) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(8) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(8) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(9) td:nth-child(2) div{
+		background-color:#8ac543 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(9) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(9) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(9) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+
+/* -------------------- POA 3 ----------------------------- */
+#table-executive-legend tr:nth-child(10) td:nth-child(1) div{
+	background-color:#6ccff5 !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(11) td:nth-child(2) div{
+		background-color:#6ccff5 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(11) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(11) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(11) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(12) td:nth-child(2) div{
+		background-color:#6ccff5 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(12) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(12) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(12) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(13) td:nth-child(2) div{
+		background-color:#6ccff5 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(13) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(13) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(13) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+
+/* -------------------- POA 4 ----------------------------- */
+#table-executive-legend tr:nth-child(14) td:nth-child(1) div{
+	background-color:#25aae0 !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(15) td:nth-child(2) div{
+		background-color:#25aae0 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(15) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(15) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(15) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(16) td:nth-child(2) div{
+		background-color:#25aae0 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(16) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(16) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(16) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+
+/* -------------------- POA 5 ----------------------------- */
+#table-executive-legend tr:nth-child(17) td:nth-child(1) div{
+	background-color:#1175ba !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(18) td:nth-child(2) div{
+		background-color:#1175ba !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(18) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(18) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(18) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(19) td:nth-child(2) div{
+		background-color:#1175ba !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(19) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(19) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(19) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(20) td:nth-child(2) div{
+		background-color:#1175ba !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(20) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(20) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(20) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(21) td:nth-child(2) div{
+		background-color:#1175ba !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(21) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(21) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(21) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+
+/* -------------------- POA 6 ----------------------------- */
+#table-executive-legend tr:nth-child(22) td:nth-child(1) div{
+	background-color:#29388f !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(23) td:nth-child(2) div{
+		background-color:#29388f !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(23) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(23) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(23) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(24) td:nth-child(2) div{
+		background-color:#29388f !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(24) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(24) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(24) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(25) td:nth-child(2) div{
+		background-color:#29388f !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(25) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(25) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(25) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+
+/* -------------------- POA 7 ----------------------------- */
+#table-executive-legend tr:nth-child(26) td:nth-child(1) div{
+	background-color:#5c2e8a !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(27) td:nth-child(2) div{
+		background-color:#5c2e8a !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(27) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(27) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(27) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(28) td:nth-child(2) div{
+		background-color:#5c2e8a !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(28) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(28) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(28) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(29) td:nth-child(2) div{
+		background-color:#5c2e8a !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(29) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(29) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(29) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+
+/* -------------------- POA 8 ----------------------------- */
+#table-executive-legend tr:nth-child(30) td:nth-child(1) div{
+	background-color:#be1e2d !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(31) td:nth-child(2) div{
+		background-color:#be1e2d !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(31) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(31) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(31) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(32) td:nth-child(2) div{
+		background-color:#be1e2d !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(32) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(32) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(32) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(33) td:nth-child(2) div{
+		background-color:#be1e2d !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(33) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(33) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(33) td:nth-child(4){
+			width:41px !important;
+	padding:0px !important;
+	margin:0px !important;
+	}
+
+/* -------------------- POA 9 ----------------------------- */
+#table-executive-legend tr:nth-child(34) td:nth-child(1) div{
+	background-color:#f69322 !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(35) td:nth-child(2) div{
+		background-color:#f69322 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(35) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(35) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(35) td:nth-child(4){
+			width:41px !important;
+			padding:0px !important;
+			margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(36) td:nth-child(2) div{
+		background-color:#f69322 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(36) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(36) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(36) td:nth-child(4){
+			width:41px !important;
+			padding:0px !important;
+			margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(37) td:nth-child(2) div{
+		background-color:#f69322 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(37) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(37) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(37) td:nth-child(4){
+			width:41px !important;
+			padding:0px !important;
+			margin:0px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(38) td:nth-child(2) div{
+		background-color:#f69322 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(38) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(38) td:nth-child(3){
+		width:24px !important;
+	}
+	#table-executive-legend tr:nth-child(38) td:nth-child(4){
+			width:41px !important;
+			padding:0px !important;
+			margin:0px !important;
+	}
+
+
+	.table-td-poa-legend-block-large{
+		width:10px !important;
+		padding:2px !important;
+	}
+	
+/*------------------------------- POA TABLE  --------------------------*/
+#table-poa{
+	width:655px !important;
+}
+
+#table-poa td{
+	padding:2px !important;
+	padding-left:7px !important;
+	border:0px #FFF solid !important;
+	background-color:#dcf0f4 !important;
+}
+
+#table-poa .white-td{
+	padding:2px !important;
+	padding-left:7px !important;
+	border:0px #dcf0f4 solid !important;
+	background-color:#fff !important;
+}
+
+.right{text-align:right !important;}
+
+#table-poa th{
+	font-size:12px !important;
+	background-color:#1075ba !important;
+	border:0px #FFF solid !important;
+	color:#FFF !important;
+	padding:2px !important;
+	text-align:center;
+	font-weight:bold !important;
+}
+
+
+#table-poa .poa-heading{
+	font-size:12px !important;
+	background-color:#68c9d2 !important; 
+	color:#FFF !important;
+	text-align:left !important;
+	font-weight:bold !important;
+} 
+
+#table-poa .poa-heading-medium{
+	font-size:12px !important;
+	background-color:#68c9d2 !important; 
+	color:#FFF !important;
+	text-align:left !important;
+	font-weight:bold !important;
+} 
+
+#table-poa .poa-heading-small{
+	font-size:11px !important;
+	background-color:#68c9d2 !important; 
+	color:#FFF !important;
+	text-align:left !important;
+	font-weight:bold !important;
+} 
+
+#table-poa .center{
+	text-align:center !important;
+} 

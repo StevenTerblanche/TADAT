@@ -1,0 +1,398 @@
+INFO - 2016-11-09 07:03:34 --> Config Class Initialized
+INFO - 2016-11-09 07:03:34 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:03:34 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:03:34 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:03:34 --> URI Class Initialized
+DEBUG - 2016-11-09 07:03:34 --> No URI present. Default controller set.
+INFO - 2016-11-09 07:03:34 --> Router Class Initialized
+INFO - 2016-11-09 07:03:34 --> Output Class Initialized
+INFO - 2016-11-09 07:03:34 --> Security Class Initialized
+DEBUG - 2016-11-09 07:03:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:03:34 --> Input Class Initialized
+INFO - 2016-11-09 07:03:34 --> Language Class Initialized
+INFO - 2016-11-09 07:03:34 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:03:34 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:03:34 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: etadat/get_dropdown_all_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: etadat/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: etadat/get_record_by_id_helper
+INFO - 2016-11-09 07:03:34 --> Helper loaded: etadat/get_record_all_helper
+INFO - 2016-11-09 07:03:34 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:03:34 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:03:34 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:03:34 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:03:34 --> Email Class Initialized
+INFO - 2016-11-09 07:03:34 --> Controller Class Initialized
+INFO - 2016-11-09 07:03:34 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:03:34 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:03:34 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:03:34 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:03:35 --> Config Class Initialized
+INFO - 2016-11-09 07:03:35 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:03:35 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:03:35 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:03:35 --> URI Class Initialized
+INFO - 2016-11-09 07:03:35 --> Router Class Initialized
+INFO - 2016-11-09 07:03:35 --> Output Class Initialized
+INFO - 2016-11-09 07:03:35 --> Security Class Initialized
+DEBUG - 2016-11-09 07:03:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:03:35 --> Input Class Initialized
+INFO - 2016-11-09 07:03:35 --> Language Class Initialized
+INFO - 2016-11-09 07:03:35 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:03:35 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:03:35 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: etadat/get_dropdown_all_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: etadat/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: etadat/get_record_by_id_helper
+INFO - 2016-11-09 07:03:35 --> Helper loaded: etadat/get_record_all_helper
+INFO - 2016-11-09 07:03:35 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:03:35 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:03:35 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:03:35 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:03:35 --> Email Class Initialized
+INFO - 2016-11-09 07:03:35 --> Controller Class Initialized
+INFO - 2016-11-09 07:03:35 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:03:35 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:03:35 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:03:35 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:03:35 --> Model Class Initialized
+INFO - 2016-11-09 07:03:35 --> File loaded: /usr/www/users/portazyyvj/application/views/portal/login/login.php
+INFO - 2016-11-09 07:03:35 --> File loaded: /usr/www/users/portazyyvj/application/views/../../themes/core/template.php
+INFO - 2016-11-09 07:03:35 --> Final output sent to browser
+DEBUG - 2016-11-09 07:03:35 --> Total execution time: 0.0332
+INFO - 2016-11-09 07:03:36 --> Config Class Initialized
+INFO - 2016-11-09 07:03:36 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:03:36 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:03:36 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:03:36 --> URI Class Initialized
+INFO - 2016-11-09 07:03:36 --> Router Class Initialized
+INFO - 2016-11-09 07:03:36 --> Output Class Initialized
+INFO - 2016-11-09 07:03:36 --> Security Class Initialized
+DEBUG - 2016-11-09 07:03:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:03:36 --> Input Class Initialized
+INFO - 2016-11-09 07:03:36 --> Language Class Initialized
+ERROR - 2016-11-09 07:03:36 --> 404 Page Not Found: Themes/core
+INFO - 2016-11-09 07:04:04 --> Config Class Initialized
+INFO - 2016-11-09 07:04:04 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:04:04 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:04:04 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:04:04 --> URI Class Initialized
+DEBUG - 2016-11-09 07:04:04 --> No URI present. Default controller set.
+INFO - 2016-11-09 07:04:04 --> Router Class Initialized
+INFO - 2016-11-09 07:04:04 --> Output Class Initialized
+INFO - 2016-11-09 07:04:04 --> Security Class Initialized
+DEBUG - 2016-11-09 07:04:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:04:04 --> Input Class Initialized
+INFO - 2016-11-09 07:04:04 --> Language Class Initialized
+INFO - 2016-11-09 07:04:04 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:04:04 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:04:04 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: etadat/get_dropdown_all_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: etadat/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: etadat/get_record_by_id_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: etadat/get_record_all_helper
+INFO - 2016-11-09 07:04:04 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:04:04 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:04 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:04:04 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:04:04 --> Email Class Initialized
+INFO - 2016-11-09 07:04:04 --> Controller Class Initialized
+INFO - 2016-11-09 07:04:04 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:04 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:04 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:04 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:04:04 --> Config Class Initialized
+INFO - 2016-11-09 07:04:04 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:04:04 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:04:04 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:04:04 --> URI Class Initialized
+INFO - 2016-11-09 07:04:04 --> Router Class Initialized
+INFO - 2016-11-09 07:04:04 --> Output Class Initialized
+INFO - 2016-11-09 07:04:04 --> Security Class Initialized
+DEBUG - 2016-11-09 07:04:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:04:04 --> Input Class Initialized
+INFO - 2016-11-09 07:04:04 --> Language Class Initialized
+INFO - 2016-11-09 07:04:04 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:04:04 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:04:04 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: etadat/get_dropdown_all_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: etadat/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: etadat/get_record_by_id_helper
+INFO - 2016-11-09 07:04:04 --> Helper loaded: etadat/get_record_all_helper
+INFO - 2016-11-09 07:04:04 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:04:04 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:04 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:04:04 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:04:04 --> Email Class Initialized
+INFO - 2016-11-09 07:04:04 --> Controller Class Initialized
+INFO - 2016-11-09 07:04:04 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:04 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:04 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:04 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:04:04 --> Model Class Initialized
+INFO - 2016-11-09 07:04:04 --> File loaded: /usr/www/users/portazyyvj/application/views/portal/login/login.php
+INFO - 2016-11-09 07:04:04 --> File loaded: /usr/www/users/portazyyvj/application/views/../../themes/core/template.php
+INFO - 2016-11-09 07:04:04 --> Final output sent to browser
+DEBUG - 2016-11-09 07:04:04 --> Total execution time: 0.0329
+INFO - 2016-11-09 07:04:05 --> Config Class Initialized
+INFO - 2016-11-09 07:04:05 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:04:05 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:04:05 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:04:05 --> URI Class Initialized
+INFO - 2016-11-09 07:04:05 --> Router Class Initialized
+INFO - 2016-11-09 07:04:05 --> Output Class Initialized
+INFO - 2016-11-09 07:04:05 --> Security Class Initialized
+DEBUG - 2016-11-09 07:04:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:04:05 --> Input Class Initialized
+INFO - 2016-11-09 07:04:05 --> Language Class Initialized
+ERROR - 2016-11-09 07:04:05 --> 404 Page Not Found: Themes/core
+INFO - 2016-11-09 07:04:22 --> Config Class Initialized
+INFO - 2016-11-09 07:04:22 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:04:22 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:04:22 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:04:22 --> URI Class Initialized
+INFO - 2016-11-09 07:04:22 --> Router Class Initialized
+INFO - 2016-11-09 07:04:22 --> Output Class Initialized
+INFO - 2016-11-09 07:04:22 --> Security Class Initialized
+DEBUG - 2016-11-09 07:04:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:04:22 --> Input Class Initialized
+INFO - 2016-11-09 07:04:22 --> Language Class Initialized
+INFO - 2016-11-09 07:04:22 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:04:22 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:04:22 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: etadat/get_dropdown_all_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: etadat/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: etadat/get_record_by_id_helper
+INFO - 2016-11-09 07:04:22 --> Helper loaded: etadat/get_record_all_helper
+INFO - 2016-11-09 07:04:22 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:04:22 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:22 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:04:22 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:04:22 --> Email Class Initialized
+INFO - 2016-11-09 07:04:22 --> Controller Class Initialized
+INFO - 2016-11-09 07:04:22 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:22 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:22 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:04:22 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:04:22 --> Model Class Initialized
+INFO - 2016-11-09 07:04:22 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-09 07:05:27 --> Config Class Initialized
+INFO - 2016-11-09 07:05:27 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:05:27 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:05:27 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:05:27 --> URI Class Initialized
+INFO - 2016-11-09 07:05:27 --> Router Class Initialized
+INFO - 2016-11-09 07:05:27 --> Output Class Initialized
+INFO - 2016-11-09 07:05:27 --> Security Class Initialized
+DEBUG - 2016-11-09 07:05:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:05:27 --> Input Class Initialized
+INFO - 2016-11-09 07:05:27 --> Language Class Initialized
+INFO - 2016-11-09 07:05:27 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:05:27 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:05:27 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: etadat/get_dropdown_all_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: etadat/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: etadat/get_record_by_id_helper
+INFO - 2016-11-09 07:05:27 --> Helper loaded: etadat/get_record_all_helper
+INFO - 2016-11-09 07:05:27 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:05:27 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:05:27 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:05:27 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:05:27 --> Email Class Initialized
+INFO - 2016-11-09 07:05:27 --> Controller Class Initialized
+INFO - 2016-11-09 07:05:27 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:05:27 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:05:27 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:05:27 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:05:27 --> Model Class Initialized
+INFO - 2016-11-09 07:05:27 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-09 07:12:05 --> Config Class Initialized
+INFO - 2016-11-09 07:12:05 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:12:05 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:12:05 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:12:05 --> URI Class Initialized
+INFO - 2016-11-09 07:12:05 --> Router Class Initialized
+INFO - 2016-11-09 07:12:05 --> Output Class Initialized
+INFO - 2016-11-09 07:12:05 --> Security Class Initialized
+DEBUG - 2016-11-09 07:12:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:12:05 --> Input Class Initialized
+INFO - 2016-11-09 07:12:05 --> Language Class Initialized
+INFO - 2016-11-09 07:12:05 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:12:05 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:12:05 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: cloud/get_dropdown_all_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: cloud/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: cloud/get_record_by_id_helper
+INFO - 2016-11-09 07:12:05 --> Helper loaded: cloud/get_record_all_helper
+INFO - 2016-11-09 07:12:05 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:12:05 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:12:05 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:12:05 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:12:05 --> Email Class Initialized
+INFO - 2016-11-09 07:12:05 --> Controller Class Initialized
+INFO - 2016-11-09 07:12:05 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:12:05 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:12:05 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:12:05 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:12:05 --> Model Class Initialized
+INFO - 2016-11-09 07:12:05 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-09 07:12:09 --> Config Class Initialized
+INFO - 2016-11-09 07:12:09 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:12:09 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:12:09 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:12:09 --> URI Class Initialized
+INFO - 2016-11-09 07:12:09 --> Router Class Initialized
+INFO - 2016-11-09 07:12:09 --> Output Class Initialized
+INFO - 2016-11-09 07:12:09 --> Security Class Initialized
+DEBUG - 2016-11-09 07:12:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:12:09 --> Input Class Initialized
+INFO - 2016-11-09 07:12:09 --> Language Class Initialized
+INFO - 2016-11-09 07:12:09 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:12:09 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:12:09 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: cloud/get_dropdown_all_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: cloud/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: cloud/get_record_by_id_helper
+INFO - 2016-11-09 07:12:09 --> Helper loaded: cloud/get_record_all_helper
+INFO - 2016-11-09 07:12:09 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:12:09 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:12:09 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:12:09 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:12:09 --> Email Class Initialized
+INFO - 2016-11-09 07:12:09 --> Controller Class Initialized
+INFO - 2016-11-09 07:12:09 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:12:09 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:12:09 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:12:09 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:12:09 --> Model Class Initialized
+INFO - 2016-11-09 07:12:09 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-09 07:13:54 --> Config Class Initialized
+INFO - 2016-11-09 07:13:54 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:13:54 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:13:54 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:13:54 --> URI Class Initialized
+INFO - 2016-11-09 07:13:54 --> Router Class Initialized
+INFO - 2016-11-09 07:13:54 --> Output Class Initialized
+INFO - 2016-11-09 07:13:54 --> Security Class Initialized
+DEBUG - 2016-11-09 07:13:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:13:54 --> Input Class Initialized
+INFO - 2016-11-09 07:13:54 --> Language Class Initialized
+INFO - 2016-11-09 07:13:54 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:13:54 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:13:54 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: cloud/get_dropdown_all_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: cloud/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: cloud/get_record_by_id_helper
+INFO - 2016-11-09 07:13:54 --> Helper loaded: cloud/get_record_all_helper
+INFO - 2016-11-09 07:13:54 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:13:54 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:13:54 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:13:54 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:13:54 --> Email Class Initialized
+INFO - 2016-11-09 07:13:54 --> Controller Class Initialized
+INFO - 2016-11-09 07:13:54 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:13:54 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:13:54 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:13:54 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:13:54 --> Model Class Initialized
+INFO - 2016-11-09 07:13:54 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-09 07:14:58 --> Config Class Initialized
+INFO - 2016-11-09 07:14:58 --> Hooks Class Initialized
+DEBUG - 2016-11-09 07:14:58 --> UTF-8 Support Enabled
+INFO - 2016-11-09 07:14:58 --> Utf8 Class Initialized
+INFO - 2016-11-09 07:14:58 --> URI Class Initialized
+INFO - 2016-11-09 07:14:58 --> Router Class Initialized
+INFO - 2016-11-09 07:14:58 --> Output Class Initialized
+INFO - 2016-11-09 07:14:58 --> Security Class Initialized
+DEBUG - 2016-11-09 07:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-09 07:14:58 --> Input Class Initialized
+INFO - 2016-11-09 07:14:58 --> Language Class Initialized
+INFO - 2016-11-09 07:14:58 --> Loader Class Initialized
+DEBUG - 2016-11-09 07:14:58 --> Config file loaded: /usr/www/users/portazyyvj/application/config/core.php
+INFO - 2016-11-09 07:14:58 --> Helper loaded: url_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: form_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: language_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: date_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: global/global_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: portal/core_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: portal/notify_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: portal/create_user_session_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: cloud/get_dropdown_all_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: cloud/get_dropdown_by_id_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: cloud/get_record_by_id_helper
+INFO - 2016-11-09 07:14:58 --> Helper loaded: cloud/get_record_all_helper
+INFO - 2016-11-09 07:14:58 --> Language file loaded: language/english/core_lang.php
+INFO - 2016-11-09 07:14:58 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:14:58 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-09 07:14:58 --> Form Validation Class Initialized
+INFO - 2016-11-09 07:14:58 --> Email Class Initialized
+INFO - 2016-11-09 07:14:58 --> Controller Class Initialized
+INFO - 2016-11-09 07:14:58 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:14:58 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:14:58 --> Database Driver Class Initialized
+INFO - 2016-11-09 07:14:58 --> Encrypt Class Initialized
+INFO - 2016-11-09 07:14:58 --> Model Class Initialized
+INFO - 2016-11-09 07:14:58 --> Language file loaded: language/english/form_validation_lang.php

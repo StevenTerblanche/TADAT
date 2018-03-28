@@ -1,0 +1,15 @@
+.dislike_btn {
+width: auto;
+padding-left: 18px;
+height: 16px;
+float: right;
+background: url('icons/dislike.png');
+background-size: 16px;
+background-repeat: no-repeat;	
+}
+.dislike_btn img {
+vertical-align: middle;
+width: 16px;
+height: 16px;
+margin-top: -4px;
+}

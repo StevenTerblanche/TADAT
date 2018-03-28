@@ -1,0 +1,332 @@
+/* -----------------------------------------
+COLORS:
+Light Blue: #0f77bd
+Dark Blue: #125b8c   
+----------------------------------------- */
+.pmq-number-input, .pmq-percentage-input-center, .pmq-decimal-input, .pmq-total-input, .pmq-percentage-input, .column-a-budget, .column-b-budget, .column-c-budget, .column-a-total, .column-b-total, .column-c-total, .column-a, .column-b, .column-c, .column-input-a, .column-input-b, .column-input-c{
+	width:130px !important; padding-top:0px !important; padding-bottom:0px !important; padding-right:3px !important; height:25px !important; font-size:12px !important; text-align:right !important
+}
+
+.pmq-total-input{
+	text-align:center !important
+}
+
+
+.pmq-percentage-input-center{
+	text-align:center !important
+}
+
+
+.pmq-table td{padding:3px !important; vertical-align:middle !important;}
+.pmq-table td p{padding:5px !important; padding-left:1px !important; margin:0px !important; vertical-align:middle !important;}
+.pmq-input-group-addon {
+    font-size: 24px;
+	color:#999 !important;
+    font-weight: normal;
+	padding:0px !important;
+	margin:0px !important;
+	top:0px !important;
+	vertical-align: middle !important;
+    line-height: 1;
+	border-collapse: separate !important;
+    display: table;
+    position: relative !important;
+	display: table-cell !important;
+}
+
+.red-text{color:#900 !important}
+.orange-text{color:#F60 !important}
+.green-text{color:#060 !important}
+
+.du{border-bottom:#999 double !important}
+.light-blue{background-color:#0f77bd !important}
+.dark-blue{background-color:#125b8c !important; color:#fff !important}
+.wp-10{width:10% !important}
+.wp-15{width:10% !important}
+.wp-16{width:16% !important}
+.wp-20{width:20% !important}
+.wp-25{width:25% !important}
+.wp-33{width:33% !important}
+.wp-55{width:70% !important}
+
+math, math[mode="inline"] {
+	font-family:Arial, Helvetica, sans-serif !important;
+  display: inline;
+  color:#666 !important;
+  font-size:18px !important;
+  font-style: normal;
+  margin-top:15px !important;
+}
+
+math[mode="display"] {
+  display: block;
+  text-align: center;
+  color:#666 !important;
+  font-style: normal;
+  margin-top:15px !important;  
+}
+
+@media screen {  /* hide from old browsers */
+
+/* Rules dealing with the various values of the "mathvariant" attribute: */
+
+math *.[mathvariant="normal"] {
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+math *.[mathvariant="bold"] {
+
+  font-weight: bold;
+  font-style: normal;
+}
+
+math *.[mathvariant="italic"] {
+
+  font-weight: normal;
+  font-style: italic;
+}
+
+math *.[mathvariant="bold-italic"] {
+
+  font-weight: bold;
+  font-style: italic;
+}
+
+math *.[mathvariant="double-struck"] {
+  font-family: msbm;
+  font-weight: normal;
+  font-style: normal;
+}
+
+math *.[mathvariant="script"] {
+  font-family: eusb;
+  font-weight: normal;
+  font-style: normal;
+}
+
+math *.[mathvariant="bold-script"] {
+  font-family: eusb;
+  font-weight: bold;
+  font-style: normal;
+}
+
+math *.[mathvariant="fraktur"] {
+  font-family: eufm;
+  font-weight: normal;
+  font-style: normal;
+}
+
+math *.[mathvariant="bold-fraktur"] {
+  font-family: eufm;
+  font-weight: bold;
+  font-style: italic;
+}
+
+math *.[mathvariant="sans-serif"] {
+  font-family: Arial, "Lucida Sans Unicode", Verdana, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+math *.[mathvariant="bold-sans-serif"] {
+  font-family: Arial, "Lucida Sans Unicode", Verdana, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+math *.[mathvariant="sans-serif-italic"] {
+  font-family: Arial, "Lucida Sans Unicode", Verdana, sans-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+math *.[mathvariant="sans-serif-bold-italic"] {
+  font-family: Arial, "Lucida Sans Unicode", Verdana, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+math *.[mathvariant="monospace"] {
+  font-family: monospace
+}
+
+
+/* Rules dealing with "mathsize" attribute */
+
+math *.[mathsize="small"] {
+  font-size: 80%
+}
+
+math *.[mathsize="normal"] {
+/*  font-size: 100%  - which is unnecessary */
+}
+
+math *.[mathsize="big"] {
+  font-size:  125%
+}
+
+/*Set size values for the "base" children of script and limit schema to 
+  distinguish them from the script or limit children:
+*/
+
+msub>*:first-child[mathsize="big"],
+msup>*:first-child[mathsize="big"],
+msubsup>*:first-child[mathsize="big"],
+munder>*:first-child[mathsize="big"],
+mover>*:first-child[mathsize="big"],
+munderover>*:first-child[mathsize="big"],
+mmultiscripts>*:first-child[mathsize="big"],
+mroot>*:first-child[mathsize="big"] {
+  font-size: 125%
+}
+
+msub>*:first-child[mathsize="small"],
+msup>*:first-child[mathsize="small"],
+msubsup>*:first-child[mathsize="small"],
+munder>*:first-child[mathsize="small"],
+mover>*:first-child[mathsize="small"],
+munderover>*:first-child[mathsize="small"],
+mmultiscripts>*:first-child[mathsize="small"],
+mroot>*:first-child[mathsize="small"] {
+  font-size: 80%
+}
+
+msub>*:first-child,
+msup>*:first-child,
+msubsup>*:first-child,
+munder>*:first-child,
+mover>*:first-child,
+munderover>*:first-child,
+mmultiscripts>*:first-child,
+mroot>*:first-child {
+  font-size: 100%
+}
+
+/*Set size values for the other children of script and limit schema (the 
+  script and limit children) - include scriptlevel increment attribute?
+*/
+
+msub>*[mathsize="big"],
+msup>*[mathsize="big"],
+msubsup>*[mathsize="big"],
+munder>*[mathsize="big"],
+mover>*[mathsize="big"],
+munderover>*[mathsize="big"],
+mmultiscripts>*[mathsize="big"],
+math[display="inline"] mfrac>*[mathsize="big"],
+math *[scriptlevel="+1"][mathsize="big"] {
+  font-size: 89%  /* (.71 times 1.25) */
+}
+
+msub>* [mathsize="small"],
+msup>*[mathsize="small"],
+msubsup>*[mathsize="small"],
+munder>*[mathsize="small"],
+mover>*[mathsize="small"],
+munderover>*[mathsize="small"],
+mmultiscripts>*[mathsize="small"],
+math[display="inline"] mfrac>*[mathsize="small"],
+math *[scriptlevel="+1"][mathsize="small"] {
+  font-size: 57% /* (.71 times .80) */
+}
+
+msub>*,
+msup>*,
+msubsup>*,
+munder>*,
+mover>*,
+munderover>*,
+mmultiscripts>*,
+math[display="inline"] mfrac>*,
+math *[scriptlevel="+1"] {
+  font-size: 71%
+}
+
+mroot>*[mathsize="big"] {
+  font-size: 62%  /* (.50 times 1.25) */
+}
+
+mroot>*[mathsize="small"] {
+  font-size: 40% /* (.50 times .80) */
+}
+
+mroot>* {
+  font-size: 50%
+}
+
+/* Set size values for other scriptlevel increment attributes  */
+
+math *[scriptlevel="+2"][mathsize="big"] {
+  font-size: 63%  /* (.71 times .71 times 1.25) */
+}
+
+math *[scriptlevel="+2"][mathsize="small"] {
+  font-size: 36% /* (.71 times .71 times .71) */
+}
+
+math *[scriptlevel="+2"] {
+  font-size: 50%   /* .71 times .71 */
+}
+
+math *.[mathcolor="green"] {
+  color: green
+}
+
+math *.[mathcolor="black"] {
+  color: black
+}
+
+math *.[mathcolor="red"] {
+  color: red
+}
+
+math *.[mathcolor="blue"] {
+  color: blue
+}
+
+math *.[mathcolor="olive"] {
+   color: olive
+}
+
+math *.[mathcolor="purple"] {
+   color: purple
+}
+
+math *.[mathcolor="teal"] {
+   color: teal
+}
+
+math *.[mathcolor="aqua"] {
+   color: aqua
+}
+
+math *.[mathcolor="gray"] {
+   color: gray
+}
+
+math *.[mathbackground="blue"] {
+   background-color: blue
+}
+
+math *.[mathbackground="green"] {
+   background-color: green
+}
+
+math *.[mathbackground="white"] {
+   background-color: white
+}
+
+math *.[mathbackground="yellow"] {
+   background-color: yellow
+}
+
+math *.[mathbackground="aqua"] {
+   background-color: aqua
+}
+
+} /* Close "@media screen" scope */
+
+@media aural {  
+}

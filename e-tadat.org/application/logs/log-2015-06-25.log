@@ -1,0 +1,18 @@
+ERROR - 2015-06-25 12:47:02 --> Severity: Warning --> file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 /usr/www/users/etadarwskd/application/helpers/sms_helper.php 18
+ERROR - 2015-06-25 12:47:02 --> Severity: Warning --> file_get_contents(http://www.amicellsms.co.za/singlesms.php?USER=007&SERIAL=300100001&SILENT=NO&MT=0826900538&SMS=Your+PIN+to+reset+your+password+is%3A+25429.+Queries%3F+Contact+support%40screenworx.tv.): failed to open stream: no suitable wrapper could be found /usr/www/users/etadarwskd/application/helpers/sms_helper.php 18
+ERROR - 2015-06-25 13:27:47 --> Query error: Duplicate entry '0' for key 'PRIMARY' - Invalid query: INSERT INTO UserPasswordResets SET fkidUsers=1, ipResetRequest=INET_ATON('196.215.27.18')
+ERROR - 2015-06-25 13:29:55 --> Query error: Unknown column 'loginResetPasswordTill' in 'field list' - Invalid query: UPDATE `Users` SET `loginResetPasswordPINHash` = 'c7b29828d327ce82b3444274f1a1dfdd811d3ed27ec5d381ccc81de3b4e6d76c8d83e991f65bd9e29f833ac78aed4810ff09dc1ec5793ae61e9823c76d3d8905', `loginResetPasswordTill` = '2015-06-25 14:29:55'
+WHERE `idUser` = '1'
+ERROR - 2015-06-25 14:21:17 --> Severity: Notice --> Undefined property: stdClass::$adminUser /usr/www/users/etadarwskd/themes/core/template.php 84
+ERROR - 2015-06-25 14:22:07 --> Severity: Notice --> Undefined property: stdClass::$adminUser /usr/www/users/etadarwskd/themes/core/template.php 84
+ERROR - 2015-06-25 15:12:16 --> Severity: Notice --> Undefined property: stdClass::$adminUser /usr/www/users/etadarwskd/themes/core/template.php 84
+ERROR - 2015-06-25 15:12:16 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-25 15:39:34 --> Severity: Notice --> Undefined property: stdClass::$adminUser /usr/www/users/etadarwskd/themes/core/template.php 84
+ERROR - 2015-06-25 16:27:28 --> Severity: Notice --> Undefined property: stdClass::$adminUser /usr/www/users/etadarwskd/themes/core/template.php 84
+ERROR - 2015-06-25 16:36:10 --> Severity: Notice --> Undefined property: stdClass::$adminUser /usr/www/users/etadarwskd/themes/core/template.php 84
+ERROR - 2015-06-25 16:36:25 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Login.php:100) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-25 16:36:25 --> Severity: Error --> Call to undefined method Login::send_email() /usr/www/users/etadarwskd/application/controllers/Login.php 100
+ERROR - 2015-06-25 16:43:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/helpers/notify_helper.php:29) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-25 16:43:46 --> Severity: Error --> Using $this when not in object context /usr/www/users/etadarwskd/application/helpers/notify_helper.php 29
+ERROR - 2015-06-25 17:04:32 --> Severity: Notice --> Undefined property: stdClass::$adminUser /usr/www/users/etadarwskd/themes/core/template.php 84
+ERROR - 2015-06-25 17:05:45 --> Severity: Notice --> Undefined property: stdClass::$adminUser /usr/www/users/etadarwskd/themes/core/template.php 84

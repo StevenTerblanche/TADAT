@@ -1,0 +1,64 @@
+.file-share-input-container {
+padding: 5px 10px;
+border-bottom: 1px solid #EEE;
+overflow: auto;
+}
+.file-share-input {
+border: 0;
+width: 100%;
+box-sizing: border-box;
+}
+#file-share-info {
+overflow: auto;
+}
+#file-share-details {
+line-height: 28px;
+float: right;
+}
+#file-share-files {
+display: none;
+}
+#file-share-list {
+width: 100%;
+overflow: auto;
+}
+.file-share-list {
+margin-top: 5px;
+}
+.file-share-element {
+background: #EEE;
+padding: 5px 10px;
+margin-top: 5px;
+width: 100%;
+box-sizing: border-box;
+border-radius: 3px;
+overflow: auto;
+color: #000;
+text-overflow: ellipsis;
+overflow: hidden;
+}
+.file-share-element:first-child {
+margin: 0;
+}
+.file-share-button {
+float: left;
+}
+.file-share-value {
+float: right;
+font-weight: bold;
+color: #6B6B6B;
+}
+.file-share-container {
+padding: 5px 10px;
+}
+.file-share-download {
+background: url('icons/download.png');
+background-repeat: no-repeat;
+background-size: 16px 16px;
+background-position-y: bottom;
+height: 17px;
+width: 16px;
+float: right;
+display: inline;
+margin-left: 10px;
+}

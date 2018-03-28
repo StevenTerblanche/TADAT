@@ -1,0 +1,87 @@
+ERROR - 2015-07-04 01:47:26 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-07-04 03:23:19 --> 404 Page Not Found: Domainsigma_removal_f3cf1b18824601a7b38a8a421093a11264dfb664html/index
+ERROR - 2015-07-04 09:58:47 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-07-04 13:09:00 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) /usr/www/users/etadarwskd/application/controllers/Init.php 6
+ERROR - 2015-07-04 13:50:06 --> Severity: Notice --> Undefined variable: _tblRA /usr/www/users/etadarwskd/application/models/Init_model.php 24
+ERROR - 2015-07-04 13:50:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT COUNT(*) AS `numrows` FROM 
+ERROR - 2015-07-04 13:50:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-07-04 13:50:42 --> Severity: Notice --> Undefined variable: _tblRA /usr/www/users/etadarwskd/application/models/Init_model.php 24
+ERROR - 2015-07-04 13:50:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT COUNT(*) AS `numrows` FROM 
+ERROR - 2015-07-04 13:50:42 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-07-04 13:50:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT COUNT(*) AS `numrows` FROM 
+ERROR - 2015-07-04 14:54:51 --> Could not find the language line "init not_exist"
+ERROR - 2015-07-04 14:54:51 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 14:54:51 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 14:54:51 --> Could not find the language line "init title not_exist"
+ERROR - 2015-07-04 14:54:51 --> Severity: Parsing Error --> syntax error, unexpected '}' /usr/www/users/etadarwskd/application/views/init/0_RA.php 30
+ERROR - 2015-07-04 14:56:53 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 14:56:53 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 14:56:53 --> Could not find the language line "init title not_exist"
+ERROR - 2015-07-04 14:56:53 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 14:56:53 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 14:56:53 --> Could not find the language line "login button login"
+ERROR - 2015-07-04 14:57:21 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 14:57:21 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 14:57:21 --> Could not find the language line "init title not_exist"
+ERROR - 2015-07-04 14:57:21 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 14:57:21 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 14:57:21 --> Could not find the language line "login button login"
+ERROR - 2015-07-04 14:59:59 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 14:59:59 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 14:59:59 --> Could not find the language line "init title not_exist"
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/init/0_RA.php 24
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/init/0_RA.php 25
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/init/0_RA.php 26
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/init/0_RA.php 27
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/init/0_RA.php 28
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/init/0_RA.php 29
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/init/0_RA.php 30
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/init/0_RA.php 55
+ERROR - 2015-07-04 14:59:59 --> Severity: Notice --> Undefined variable: authorities /usr/www/users/etadarwskd/application/views/init/0_RA.php 64
+ERROR - 2015-07-04 15:08:06 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:08:06 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:08:06 --> Could not find the language line "init title not_exist"
+ERROR - 2015-07-04 15:08:06 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/init/0_RA.php 53
+ERROR - 2015-07-04 15:08:06 --> Severity: Notice --> Undefined variable: authorities /usr/www/users/etadarwskd/application/views/init/0_RA.php 62
+ERROR - 2015-07-04 15:09:28 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:09:28 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:09:28 --> Could not find the language line "init title not_exist"
+ERROR - 2015-07-04 15:09:28 --> Severity: Notice --> Undefined variable: authorities /usr/www/users/etadarwskd/application/views/init/0_RA.php 62
+ERROR - 2015-07-04 15:25:17 --> Severity: Parsing Error --> syntax error, unexpected ';' /usr/www/users/etadarwskd/application/controllers/Init.php 75
+ERROR - 2015-07-04 15:25:39 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:25:39 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:25:39 --> Severity: Notice --> Undefined variable: authorities /usr/www/users/etadarwskd/application/views/init/0_RA.php 62
+ERROR - 2015-07-04 15:45:04 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:45:04 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:49:51 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:49:51 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:50:03 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:50:03 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:55:21 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:55:21 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:56:08 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:56:08 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:56:08 --> Severity: Parsing Error --> syntax error, unexpected '.' /usr/www/users/etadarwskd/application/views/init/0_RA.php 5
+ERROR - 2015-07-04 15:56:23 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:56:23 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:58:33 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:58:33 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 15:59:08 --> Could not find the language line "login input username_email"
+ERROR - 2015-07-04 15:59:08 --> Could not find the language line "login input password"
+ERROR - 2015-07-04 18:20:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/models/Init_model.php:80) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-07-04 18:20:07 --> Severity: Compile Error --> Cannot redeclare Init_model::create_user() /usr/www/users/etadarwskd/application/models/Init_model.php 80
+ERROR - 2015-07-04 18:33:13 --> Could not find the language line "init not_exist"
+ERROR - 2015-07-04 18:33:13 --> Severity: Notice --> Undefined index: authority_region /usr/www/users/etadarwskd/application/views/init/0_RA.php 78
+ERROR - 2015-07-04 18:33:13 --> Severity: Notice --> Undefined index: authority_country /usr/www/users/etadarwskd/application/views/init/0_RA.php 79
+ERROR - 2015-07-04 18:37:24 --> Severity: Notice --> Undefined index: authority_region /usr/www/users/etadarwskd/application/views/init/0_RA.php 78
+ERROR - 2015-07-04 18:37:24 --> Severity: Notice --> Undefined index: authority_country /usr/www/users/etadarwskd/application/views/init/0_RA.php 79
+ERROR - 2015-07-04 18:44:56 --> Could not find the language line "init not_exist"
+ERROR - 2015-07-04 19:12:44 --> Could not find the language line "users placeholder region"
+ERROR - 2015-07-04 19:12:44 --> Could not find the language line "users placeholder region"
+ERROR - 2015-07-04 19:12:44 --> Could not find the language line "users placeholder country"
+ERROR - 2015-07-04 19:13:07 --> Could not find the language line "users placeholder region"
+ERROR - 2015-07-04 19:13:07 --> Could not find the language line "users placeholder region"
+ERROR - 2015-07-04 19:13:07 --> Could not find the language line "users placeholder country"
+ERROR - 2015-07-04 19:22:32 --> Could not find the language line "users placeholder region"
+ERROR - 2015-07-04 19:22:32 --> Could not find the language line "users placeholder region"
+ERROR - 2015-07-04 19:22:32 --> Could not find the language line "users placeholder country"

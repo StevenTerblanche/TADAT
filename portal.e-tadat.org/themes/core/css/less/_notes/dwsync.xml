@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="animate.less" server="197.221.10.185/public_html/" local="130748856364045818" remote="130810939800000000" Dst="-1" />
+<file name="app.less" server="197.221.10.185/public_html/" local="130640782006735454" remote="130810939800000000" Dst="-1" />
+<file name="body.less" server="197.221.10.185/public_html/" local="130748856303012327" remote="130810939800000000" Dst="-1" />
+<file name="bootstrap.less" server="197.221.10.185/public_html/" local="130640782006745455" remote="130810940400000000" Dst="-1" />
+<file name="content.less" server="197.221.10.185/public_html/" local="130640782007175479" remote="130810940400000000" Dst="-1" />
+<file name="custom-elements.less" server="197.221.10.185/public_html/" local="130691744762456552" remote="130810940400000000" Dst="-1" />
+<file name="custom-mixins.less" server="197.221.10.185/public_html/" local="130640782007185480" remote="130810940400000000" Dst="-1" />
+<file name="custom-variables.less" server="197.221.10.185/public_html/" local="130651999114698078" remote="130810940400000000" Dst="-1" />
+<file name="email-app.less" server="197.221.10.185/public_html/" local="130746179023448386" remote="130810940400000000" Dst="-1" />
+<file name="header.less" server="197.221.10.185/public_html/" local="130652128082317757" remote="130810940400000000" Dst="-1" />
+<file name="helpers.less" server="197.221.10.185/public_html/" local="130748856364865865" remote="130810940400000000" Dst="-1" />
+<file name="landing-responsive.less" server="197.221.10.185/public_html/" local="130640782007225482" remote="130810940400000000" Dst="-1" />
+<file name="landing.less" server="197.221.10.185/public_html/" local="130640782007225482" remote="130810940400000000" Dst="-1" />
+<file name="page-footer.less" server="197.221.10.185/public_html/" local="130640782007235483" remote="130810940400000000" Dst="-1" />
+<file name="plugins.less" server="197.221.10.185/public_html/" local="130748856364895866" remote="130810941000000000" Dst="-1" />
+<file name="print.less" server="197.221.10.185/public_html/" local="130640782007445495" remote="130810941000000000" Dst="-1" />
+<file name="responsive.less" server="197.221.10.185/public_html/" local="130746179023518390" remote="130810941000000000" Dst="-1" />
+<file name="right-sidebar.less" server="197.221.10.185/public_html/" local="130652117629327499" remote="130810941000000000" Dst="-1" />
+<file name="sidebar.less" server="197.221.10.185/public_html/" local="130748856303112333" remote="130810941000000000" Dst="-1" />
+<file name="template-elements.less" server="197.221.10.185/public_html/" local="130652172735221333" remote="130810941000000000" Dst="-1" />
+<file name="app.less" server="129.232.136.198/public_html/" local="130640782006735454" remote="131224637400000000" Dst="0" />
+<file name="animate.less" server="129.232.136.198/public_html/" local="130748856364045818" remote="131224637400000000" Dst="0" />
+<file name="body.less" server="129.232.136.198/public_html/" local="130748856303012327" remote="131224637400000000" Dst="0" />
+<file name="bootstrap.less" server="129.232.136.198/public_html/" local="130640782006745455" remote="131224637400000000" Dst="0" />
+<file name="content.less" server="129.232.136.198/public_html/" local="130640782007175479" remote="131224637400000000" Dst="0" />
+<file name="custom-mixins.less" server="129.232.136.198/public_html/" local="130640782007185480" remote="131224637400000000" Dst="0" />
+<file name="custom-elements.less" server="129.232.136.198/public_html/" local="130691744762456552" remote="131224637400000000" Dst="0" />
+<file name="email-app.less" server="129.232.136.198/public_html/" local="130746179023448386" remote="131224637400000000" Dst="0" />
+<file name="custom-variables.less" server="129.232.136.198/public_html/" local="130651999114698078" remote="131224637400000000" Dst="0" />
+<file name="header.less" server="129.232.136.198/public_html/" local="130652128082317757" remote="131224637400000000" Dst="0" />
+<file name="helpers.less" server="129.232.136.198/public_html/" local="130748856364865865" remote="131224637400000000" Dst="0" />
+<file name="landing-responsive.less" server="129.232.136.198/public_html/" local="130640782007225482" remote="131224637400000000" Dst="0" />
+<file name="landing.less" server="129.232.136.198/public_html/" local="130640782007225482" remote="131224637400000000" Dst="0" />
+<file name="page-footer.less" server="129.232.136.198/public_html/" local="130640782007235483" remote="131224637400000000" Dst="0" />
+<file name="plugins.less" server="129.232.136.198/public_html/" local="130748856364895866" remote="131224637400000000" Dst="0" />
+<file name="print.less" server="129.232.136.198/public_html/" local="130640782007445495" remote="131224637400000000" Dst="0" />
+<file name="responsive.less" server="129.232.136.198/public_html/" local="130746179023518390" remote="131224637400000000" Dst="0" />
+<file name="right-sidebar.less" server="129.232.136.198/public_html/" local="130652117629327499" remote="131224637400000000" Dst="0" />
+<file name="sidebar.less" server="129.232.136.198/public_html/" local="130748856303112333" remote="131224637400000000" Dst="0" />
+<file name="template-elements.less" server="129.232.136.198/public_html/" local="130652172735221333" remote="131224637400000000" Dst="0" />
+</dwsync>

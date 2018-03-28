@@ -1,0 +1,122 @@
+ERROR - 2015-07-05 07:12:35 --> Severity: Parsing Error --> syntax error, unexpected ')' /usr/www/users/etadarwskd/application/controllers/Init.php 34
+ERROR - 2015-07-05 07:13:13 --> Could not find the language line "users input name_client"
+ERROR - 2015-07-05 07:13:13 --> Could not find the language line "users input name_client_contact"
+ERROR - 2015-07-05 07:13:13 --> Could not find the language line "users input surname_client_contact"
+ERROR - 2015-07-05 07:13:13 --> Could not find the language line "users input address_suburb_client"
+ERROR - 2015-07-05 07:13:13 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:13:13 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:13:13 --> Could not find the language line "users input city"
+ERROR - 2015-07-05 07:13:13 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:13:13 --> Severity: Notice --> Undefined variable: strUAction /usr/www/users/etadarwskd/application/controllers/Init.php 161
+ERROR - 2015-07-05 07:13:13 --> Severity: Notice --> Undefined variable: strURI /usr/www/users/etadarwskd/application/controllers/Init.php 162
+ERROR - 2015-07-05 07:13:13 --> Severity: Notice --> Undefined property: Init::$users_model /usr/www/users/etadarwskd/application/controllers/Init.php 163
+ERROR - 2015-07-05 07:13:13 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-07-05 07:13:13 --> Severity: Error --> Call to a member function get_user() on null /usr/www/users/etadarwskd/application/controllers/Init.php 163
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input name_client"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input name_client_contact"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input surname_client_contact"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input address_suburb_client"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input city"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder language"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input title"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder title"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input name"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder name"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input surname"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder surname"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input designation"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder designation"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input passport"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input email"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder email"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input telephone"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input mobile"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input language"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder language"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users input city"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users placeholder city"
+ERROR - 2015-07-05 07:19:47 --> Could not find the language line "users button register_user"
+ERROR - 2015-07-05 07:21:03 --> Could not find the language line "users input name_client"
+ERROR - 2015-07-05 07:21:03 --> Could not find the language line "users input name_client_contact"
+ERROR - 2015-07-05 07:21:03 --> Could not find the language line "users input surname_client_contact"
+ERROR - 2015-07-05 07:21:03 --> Could not find the language line "users input address_suburb_client"
+ERROR - 2015-07-05 07:21:03 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:21:03 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:21:03 --> Could not find the language line "users input city"
+ERROR - 2015-07-05 07:21:03 --> Could not find the language line "users input address_city_client"
+ERROR - 2015-07-05 07:21:03 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Init.php:165) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-07-05 07:21:03 --> Severity: Error --> Call to undefined method CI_Loader::lang() /usr/www/users/etadarwskd/application/controllers/Init.php 165
+ERROR - 2015-07-05 07:23:48 --> Could not find the language line "form_validation__check_passport_exists"
+ERROR - 2015-07-05 07:25:23 --> Severity: Notice --> Undefined index: initdata /usr/www/users/etadarwskd/application/controllers/Init.php 146
+ERROR - 2015-07-05 07:25:23 --> Severity: Notice --> Undefined index: initdata /usr/www/users/etadarwskd/application/controllers/Init.php 147
+ERROR - 2015-07-05 07:25:23 --> Query error: Column 'fkidUserRegion' cannot be null - Invalid query: INSERT INTO `Users` (`titleUser`, `nameUser`, `surnameUser`, `designationUser`, `emailUser`, `telephoneUser`, `mobileUser`, `fkidUserRole`, `enabledUser`, `creationDate`, `passportNumberUser`, `cityUser`, `fkidUserRegion`, `fkidUserCountry`, `fkidUserLanguage`, `loginPasswordHash`, `loginPasswordSalt`) VALUES ('Gen', 'Jerome', 'Jackson', 'The Third', 'me@mine.com', '0826900530', '0826900538', 5, 1, '2015-07-05 07:25:23', '000AAA003', 'Durban', NULL, NULL, '1', 'e82df3700fbe1542a41afdb77716aecdd7264a9f82e6a234492ae9a2ee4ba77dadf5692924d1856517adfff6fa414346ee13364c9ad8bd2a435e90ea24cba449', 'dfbf45b5d0b626c75e71183af4456d39ccadb403b248195fcf559ce417ad846b95f2c9039d56296d21cd8f20e89a48c0b660bfa60d67d4c48eca1245d01bc190')
+ERROR - 2015-07-05 07:25:23 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-07-05 08:05:36 --> Query error: Column 'fkidUserRegion' cannot be null - Invalid query: INSERT INTO `Users` (`titleUser`, `nameUser`, `surnameUser`, `designationUser`, `emailUser`, `telephoneUser`, `mobileUser`, `fkidUserRole`, `enabledUser`, `creationDate`, `passportNumberUser`, `cityUser`, `fkidUserRegion`, `fkidUserCountry`, `fkidUserLanguage`, `loginPasswordHash`, `loginPasswordSalt`) VALUES ('Gen', 'Bob', 'Wilson', 'Hey You', 'me@mine.com', '0732964558', '0826900530', 5, 1, '2015-07-05 08:05:36', '0000AbBB13', 'Durban', NULL, NULL, '1', 'bdd1992ec7e77542e3863d82610be48b828ba0d1931423bc0ef5227e9b6f6f3f37ce3461978df38e7014ec0ca30c2e2eb9328b335cb95d4834e27ad4b5ea2bf9', '3c85dc0a998da4cbc31468e0673294ed00e2b557eac67a573773fbe726e44e69f6f36a32af004a11413dc7071a6896a46acbdbe92238e1dbe5c4f520506db474')
+ERROR - 2015-07-05 08:11:14 --> Severity: Notice --> Undefined index: region_user /usr/www/users/etadarwskd/application/views/init/1_RAM.php 184
+ERROR - 2015-07-05 08:11:14 --> Severity: Notice --> Undefined index: country_user /usr/www/users/etadarwskd/application/views/init/1_RAM.php 193
+ERROR - 2015-07-05 08:53:22 --> 404 Page Not Found: Init/m
+ERROR - 2015-07-05 08:53:23 --> 404 Page Not Found: Themes/core
+ERROR - 2015-07-05 08:53:40 --> Severity: Notice --> Undefined variable: regions /usr/www/users/etadarwskd/application/views/init/2_mission.php 84
+ERROR - 2015-07-05 08:54:27 --> Severity: Notice --> Undefined variable: regions /usr/www/users/etadarwskd/application/views/init/2_mission.php 84
+ERROR - 2015-07-05 08:56:23 --> Severity: Parsing Error --> syntax error, unexpected '<' /usr/www/users/etadarwskd/application/views/init/2_mission.php 12
+ERROR - 2015-07-05 09:30:12 --> Severity: Notice --> Array to string conversion /usr/www/users/etadarwskd/system/helpers/form_helper.php 917
+ERROR - 2015-07-05 09:48:11 --> Could not find the language line "form_validation__dates_not_invalid"
+ERROR - 2015-07-05 09:49:51 --> Could not find the language line "form_validation__dates_not_invalid"
+ERROR - 2015-07-05 09:53:23 --> Could not find the language line "form_validation__dates_not_invalid"
+ERROR - 2015-07-05 09:58:15 --> Query error: Unknown column 'fkidMissionCountry' in 'field list' - Invalid query: INSERT INTO `Missions` (`fkidMissionRegion`, `fkidMissionCountry`, `fkidMissionAuthority`, `startMission`, `endMission`, `assessmentPeriod`, `fkidMissionStatus`, `creationDate`, `activeMission`) VALUES ('7', '134', '1', '2015-07-08', '2015-11-19', '8', '2', '2015-07-05 09:58:15', 1)
+ERROR - 2015-07-05 10:01:33 --> Could not find the language line "init not_exist"
+ERROR - 2015-07-05 10:12:18 --> Query error: Unknown column 'designationUser' in 'field list' - Invalid query: INSERT INTO `Users` (`titleUser`, `nameUser`, `surnameUser`, `designationUser`, `emailUser`, `telephoneUser`, `mobileUser`, `fkidUserRole`, `enabledUser`, `creationDate`, `passportNumberUser`, `cityUser`, `fkidUserRegion`, `fkidUserCountry`, `fkidUserLanguage`, `loginPasswordHash`, `loginPasswordSalt`) VALUES ('St', 'Bob', 'Chancer', 'Hey You', 'me@mine.com', '0826900530', '0826900538', 5, 1, '2015-07-05 10:12:18', '0000AbBB17', 'Durban', '5', '93', '1', '0caf00aab17af5793f23be2cfe79b5e5bb469e673ef0babae4f633f5afb40ac1b5b9ef0299c8bb521854960ab0ae61e0a67e4837a19f4472c982c704f5c87076', '4b7aa7ae6018aa13d3d3a5970596f8e92fba80c03254ea10819e9eafe4014141afca0e414402806774dbb0eca63c6252895aed4cc7e8baa55b9618ccde54539a')
+ERROR - 2015-07-05 10:17:30 --> Query error: Unknown column 'cityUser' in 'field list' - Invalid query: INSERT INTO `Users` (`titleUser`, `nameUser`, `surnameUser`, `descriptionUser`, `emailUser`, `telephoneUser`, `mobileUser`, `fkidUserRole`, `enabledUser`, `creationDate`, `passportNumberUser`, `cityUser`, `fkidUserRegion`, `fkidUserCountry`, `fkidUserLanguage`, `loginPasswordHash`, `loginPasswordSalt`) VALUES ('St', 'Bob', 'Chancer', 'Chief Muck a Muck', 'me@mine.com', '0826900530', '0826900530', 5, 1, '2015-07-05 10:17:30', 'aaabbbccd', 'Durban', '5', '93', '1', '7a9778bcb69c22e691589b98775a9ef1453085cd5bd80c400a7c8f2067cc42af5613bd9578dce2a479d5b0836b5cf902a62b41a4c3fca0e3de1ac4bd9d11f330', '28abaf60e8140571eef54fe6457a52509660e5aeece31de9e8da29e1e26a1a5e826c4979e11c05056045796f6d2e1389684489ca4240b2ac6d1bdac3308d86d5')
+ERROR - 2015-07-05 11:05:44 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-05 11:10:13 --> Query error: Duplicate entry 'aa' for key 'nameMissionAgency_UNIQUE' - Invalid query: INSERT INTO `MissionAuthority` (`nameMissionAuthority`, `nameAuthorityContact`, `surnameAuthorityContact`, `addressStreetAuthority`, `addressSuburbAuthority`, `addressCityAuthority`, `fkidMissionCountry`, `creationDate`) VALUES ('aa', 'aa', 'aa', 'aa', 'aa', 'aa', '27', '2015-07-05 11:10:13')
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-05 20:09:00 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-05 20:09:06 --> Severity: Warning --> Illegal string offset 'code' /usr/www/users/etadarwskd/application/views/missions/view.php 66
+ERROR - 2015-07-05 20:09:06 --> Severity: Warning --> Illegal string offset 'name' /usr/www/users/etadarwskd/application/views/missions/view.php 67
+ERROR - 2015-07-05 20:09:19 --> Severity: Error --> Call to a member function result() on array /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-05 20:09:24 --> Severity: Warning --> Illegal string offset 'code' /usr/www/users/etadarwskd/application/views/missions/view.php 66
+ERROR - 2015-07-05 20:09:24 --> Severity: Warning --> Illegal string offset 'name' /usr/www/users/etadarwskd/application/views/missions/view.php 67
+ERROR - 2015-07-05 23:32:33 --> 404 Page Not Found: Users/add
+ERROR - 2015-07-05 23:32:33 --> 404 Page Not Found: Themes/core
+ERROR - 2015-07-05 23:36:13 --> Severity: Parsing Error --> syntax error, unexpected ':' /usr/www/users/etadarwskd/application/views/users/modify.php 48
+ERROR - 2015-07-05 23:59:42 --> 404 Page Not Found: Users/4
+ERROR - 2015-07-05 23:59:42 --> 404 Page Not Found: Themes/core

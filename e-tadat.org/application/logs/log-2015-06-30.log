@@ -1,0 +1,562 @@
+ERROR - 2015-06-30 00:18:38 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-30 05:14:37 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-30 05:14:59 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/missions/modify.php 62
+ERROR - 2015-06-30 05:14:59 --> Severity: Notice --> Undefined index: language_user /usr/www/users/etadarwskd/application/views/missions/modify.php 62
+ERROR - 2015-06-30 05:14:59 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/missions/modify.php 65
+ERROR - 2015-06-30 05:14:59 --> Severity: Notice --> Undefined index: language_user /usr/www/users/etadarwskd/application/views/missions/modify.php 65
+ERROR - 2015-06-30 05:14:59 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/missions/modify.php 68
+ERROR - 2015-06-30 05:14:59 --> Severity: Notice --> Undefined index: language_user /usr/www/users/etadarwskd/application/views/missions/modify.php 68
+ERROR - 2015-06-30 05:14:59 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/missions/modify.php 75
+ERROR - 2015-06-30 05:14:59 --> Severity: Notice --> Undefined index: language_user /usr/www/users/etadarwskd/application/views/missions/modify.php 75
+ERROR - 2015-06-30 05:15:21 --> 404 Page Not Found: Missions/authority_view
+ERROR - 2015-06-30 05:15:21 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 05:15:24 --> 404 Page Not Found: Missions/authority_modify
+ERROR - 2015-06-30 05:15:24 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:35 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:15:40 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 05:23:34 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 05:47:34 --> Could not find the language line "login input username_email"
+ERROR - 2015-06-30 06:33:54 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:36:53 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:36:53 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:36:53 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:36:53 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:36:53 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:36:53 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:36:53 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:38:55 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:39:48 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:40:39 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:42:22 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:43:48 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:46:54 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:47:40 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:48:20 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:49:02 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:49:16 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:49:32 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:49:53 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users placeholder email"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users placeholder telephone"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:50:18 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users placeholder mobile"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:51:34 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:52:21 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users placeholder passport"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users placeholder role"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 06:52:58 --> Could not find the language line "users placeholder language"
+ERROR - 2015-06-30 06:55:37 --> Could not find the language line "users input telephone"
+ERROR - 2015-06-30 06:55:37 --> Could not find the language line "users input mobile"
+ERROR - 2015-06-30 06:55:37 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:55:37 --> Could not find the language line "users input passport"
+ERROR - 2015-06-30 06:55:37 --> Could not find the language line "users input role"
+ERROR - 2015-06-30 06:55:37 --> Could not find the language line "users input language"
+ERROR - 2015-06-30 07:04:21 --> Could not find the language line "users input designation"
+ERROR - 2015-06-30 07:04:21 --> Could not find the language line "users placeholder designation"
+ERROR - 2015-06-30 07:15:19 --> Query error: No tables used - Invalid query: SELECT *
+ORDER BY `idUserLanguages`
+ERROR - 2015-06-30 07:16:30 --> Could not find the language line "users input region"
+ERROR - 2015-06-30 07:16:30 --> Severity: Notice --> Undefined variable: all_regions /usr/www/users/etadarwskd/application/views/users/modify.php 169
+ERROR - 2015-06-30 07:16:30 --> Could not find the language line "users placeholder region"
+ERROR - 2015-06-30 07:17:15 --> Could not find the language line "users input region"
+ERROR - 2015-06-30 07:17:15 --> Severity: Notice --> Undefined variable: all_regions /usr/www/users/etadarwskd/application/views/users/modify.php 169
+ERROR - 2015-06-30 07:17:15 --> Could not find the language line "users placeholder region"
+ERROR - 2015-06-30 07:22:42 --> Could not find the language line "users input region"
+ERROR - 2015-06-30 07:22:42 --> Severity: Notice --> Undefined variable: all_regions /usr/www/users/etadarwskd/application/views/users/modify.php 169
+ERROR - 2015-06-30 07:22:42 --> Could not find the language line "users placeholder region"
+ERROR - 2015-06-30 07:24:47 --> Could not find the language line "users input region"
+ERROR - 2015-06-30 07:24:47 --> Severity: Notice --> Undefined variable: all_regions /usr/www/users/etadarwskd/application/views/users/modify.php 169
+ERROR - 2015-06-30 07:24:47 --> Could not find the language line "users placeholder region"
+ERROR - 2015-06-30 07:31:03 --> Could not find the language line "users input region"
+ERROR - 2015-06-30 07:31:03 --> Could not find the language line "users placeholder region"
+ERROR - 2015-06-30 07:38:25 --> Could not find the language line "users input region"
+ERROR - 2015-06-30 07:38:25 --> Could not find the language line "users placeholder region"
+ERROR - 2015-06-30 07:38:25 --> Could not find the language line "users input country"
+ERROR - 2015-06-30 07:38:25 --> Could not find the language line "users placeholder country"
+ERROR - 2015-06-30 07:46:17 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 07:46:42 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 07:47:44 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 07:49:24 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 08:04:00 --> Could not find the language line "users input city"
+ERROR - 2015-06-30 08:04:00 --> Could not find the language line "users placeholder city"
+ERROR - 2015-06-30 08:07:26 --> Could not find the language line "users input city"
+ERROR - 2015-06-30 08:07:26 --> Could not find the language line "users placeholder city"
+ERROR - 2015-06-30 08:08:00 --> Could not find the language line "users input city"
+ERROR - 2015-06-30 08:08:00 --> Could not find the language line "users placeholder city"
+ERROR - 2015-06-30 08:10:07 --> Could not find the language line "users input city"
+ERROR - 2015-06-30 08:10:07 --> Could not find the language line "users placeholder city"
+ERROR - 2015-06-30 08:16:06 --> Could not find the language line "users input city"
+ERROR - 2015-06-30 08:16:06 --> Could not find the language line "users placeholder city"
+ERROR - 2015-06-30 08:17:31 --> Could not find the language line "users input city"
+ERROR - 2015-06-30 08:17:31 --> Could not find the language line "users placeholder city"
+ERROR - 2015-06-30 08:36:17 --> Could not find the language line "users button register_user"
+ERROR - 2015-06-30 08:38:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/models/Users_model.php:148) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 08:38:43 --> Severity: Error --> Call to undefined method Users_model::set_flashdata() /usr/www/users/etadarwskd/application/models/Users_model.php 148
+ERROR - 2015-06-30 08:43:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/models/Users_model.php:148) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 08:43:55 --> Severity: Error --> Call to undefined method Users_model::set_flashdata() /usr/www/users/etadarwskd/application/models/Users_model.php 148
+ERROR - 2015-06-30 08:47:05 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 09:05:07 --> Severity: Parsing Error --> syntax error, unexpected '$intPerPage' (T_VARIABLE), expecting function (T_FUNCTION) /usr/www/users/etadarwskd/application/models/Users_model.php 23
+ERROR - 2015-06-30 10:41:17 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 11:44:52 --> Severity: Notice --> Undefined index: id /usr/www/users/etadarwskd/application/views/missions/modify.php 62
+ERROR - 2015-06-30 11:45:04 --> Severity: Notice --> Undefined index: idMissionCountry /usr/www/users/etadarwskd/application/views/missions/modify.php 62
+ERROR - 2015-06-30 11:45:50 --> Severity: Notice --> Undefined index: nameMissionCountry /usr/www/users/etadarwskd/application/views/missions/modify.php 62
+ERROR - 2015-06-30 11:50:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Missions.php:92) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 11:50:54 --> Severity: Error --> Call to undefined method Missions_model::get_all_countries() /usr/www/users/etadarwskd/application/controllers/Missions.php 92
+ERROR - 2015-06-30 12:07:52 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 12:08:00 --> 404 Page Not Found: Missions/authority_view
+ERROR - 2015-06-30 12:08:00 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 12:16:35 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 12:16:40 --> 404 Page Not Found: Missions/authority_view
+ERROR - 2015-06-30 12:16:40 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 12:41:18 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 12
+ERROR - 2015-06-30 12:41:29 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 12
+ERROR - 2015-06-30 12:42:03 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:42:03 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:42:05 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:42:09 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:42:30 --> Severity: Parsing Error --> syntax error, unexpected '$_NumLinks' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:43:40 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:43:49 --> Severity: Parsing Error --> syntax error, unexpected '$_NumLinks' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:44:02 --> Severity: Parsing Error --> syntax error, unexpected '$_NumLinks' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:44:12 --> Severity: Parsing Error --> syntax error, unexpected '$_NumLinks' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:44:19 --> Severity: Parsing Error --> syntax error, unexpected '$_NumLinks' (T_VARIABLE) /usr/www/users/etadarwskd/application/models/Users_model.php 32
+ERROR - 2015-06-30 12:50:36 --> Severity: Notice --> Array to string conversion /usr/www/users/etadarwskd/application/controllers/Users.php 25
+ERROR - 2015-06-30 12:50:36 --> Severity: Notice --> Undefined variable: users /usr/www/users/etadarwskd/application/views/users/view.php 19
+ERROR - 2015-06-30 12:50:38 --> Severity: Notice --> Array to string conversion /usr/www/users/etadarwskd/application/controllers/Users.php 25
+ERROR - 2015-06-30 12:50:38 --> Severity: Notice --> Undefined variable: users /usr/www/users/etadarwskd/application/views/users/view.php 19
+ERROR - 2015-06-30 13:11:18 --> Severity: Notice --> Undefined variable: pagination /usr/www/users/etadarwskd/themes/core/template.php 177
+ERROR - 2015-06-30 14:00:21 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-30 14:01:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:17) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:01:54 --> Severity: Error --> Call to undefined method CI_Pagination::item() /usr/www/users/etadarwskd/application/controllers/Users.php 17
+ERROR - 2015-06-30 14:03:55 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-30 14:13:38 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-30 14:13:56 --> 404 Page Not Found: Users/index
+ERROR - 2015-06-30 14:13:57 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 14:13:57 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:13:57 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:13:58 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:13:58 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:13:58 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:13:58 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:13:59 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:13:59 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:00 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:01 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:02 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:02 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:03 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:03 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:05 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:05 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:06 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:07 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:08 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:08 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:09 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:10 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:10 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:11 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:11 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:11 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:11 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:12 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:12 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:13 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:13 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:14 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:14 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:14:15 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:26) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-30 14:14:15 --> Severity: Error --> Cannot use object of type CI_Config as array /usr/www/users/etadarwskd/application/controllers/Users.php 26
+ERROR - 2015-06-30 14:17:55 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 14:18:32 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 14:18:55 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 14:23:31 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 15:07:03 --> 404 Page Not Found: Missions/authority_view
+ERROR - 2015-06-30 15:07:03 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 15:12:48 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 15:13:03 --> 404 Page Not Found: Missions/authority_view
+ERROR - 2015-06-30 15:13:04 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 15:13:50 --> 404 Page Not Found: Missions/authority_view
+ERROR - 2015-06-30 15:13:50 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 15:14:56 --> Severity: Parsing Error --> syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 80
+ERROR - 2015-06-30 15:28:50 --> Severity: Parsing Error --> syntax error, unexpected '$content_data' (T_VARIABLE), expecting function (T_FUNCTION) /usr/www/users/etadarwskd/application/controllers/Missions.php 184
+ERROR - 2015-06-30 15:32:01 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 15:33:28 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 15:34:08 --> 404 Page Not Found: Missions/authority_modify
+ERROR - 2015-06-30 15:34:08 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 15:49:17 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 15:55:07 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 15:59:44 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 16:00:17 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 16:02:16 --> Severity: Parsing Error --> syntax error, unexpected ';' /usr/www/users/etadarwskd/application/controllers/Users.php 46
+ERROR - 2015-06-30 16:03:10 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 16:03:16 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 16:05:47 --> Query error: Duplicate entry '7109035260084' for key 'passportNumberUser_UNIQUE' - Invalid query: INSERT INTO `Users` (`titleUser`, `nameUser`, `surnameUser`, `designationUser`, `emailUser`, `telephoneUser`, `mobileUser`, `fkidUserRole`, `enabledUser`, `creationDate`, `passportNumberUser`, `cityUser`, `fkidUserRegion`, `fkidUserCountry`, `fkidUserLanguage`, `loginPasswordHash`, `loginPasswordSalt`) VALUES ('Mr', 'Steven', 'Terblanche', 'Technical Software Architect', 'test@test.com', '011-478-1314', '0732964558', '7', 1, '2015-06-30 16:05:47', '7109035260084', 'Johannesburg', '13', '16', '1', 'fe284e79a3b1aa7be68c8c03c9d4569e8b56b2720c515b6e54de72072aef3423d8cfdfff3a40bf9db3cd0bd9f0889647ec3446ea66759db7c4a45cede3b333ae', 'c5fc2efd306369df72b6ae9685dcd930ede05991acb97edbe5afe4fc0d93b71b5bbfd79077e9285eaec5fd414d4a7de7710cd0d79ede441d18b59c981e389d14')
+ERROR - 2015-06-30 16:40:16 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 16:41:26 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 16:48:42 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:01:42 --> Could not find the language line "form_validation__check_email_exists"
+ERROR - 2015-06-30 17:01:42 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-30 17:01:43 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:10:09 --> Could not find the language line "form_validation__check_email_exists"
+ERROR - 2015-06-30 17:10:09 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-30 17:10:09 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:18:44 --> Could not find the language line "form_validation__check_email_exists"
+ERROR - 2015-06-30 17:18:44 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-30 17:18:44 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:19:35 --> Could not find the language line "form_validation__check_email_exists"
+ERROR - 2015-06-30 17:19:35 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-30 17:19:35 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:20:33 --> Could not find the language line "form_validation__check_email_exists"
+ERROR - 2015-06-30 17:20:33 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:24:48 --> Could not find the language line "form_validation__check_email_exists"
+ERROR - 2015-06-30 17:24:48 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:25:36 --> Could not find the language line "form_validation__check_email_exists"
+ERROR - 2015-06-30 17:25:36 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:28:41 --> Could not find the language line "form_validation__check_email_exists"
+ERROR - 2015-06-30 17:28:41 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:30:24 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:33:51 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:38:40 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:43:09 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:46:05 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 17:46:58 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:29:34 --> Severity: Warning --> Missing argument 1 for Users::populateCountryForm() /usr/www/users/etadarwskd/application/controllers/Users.php 118
+ERROR - 2015-06-30 18:29:34 --> Severity: Notice --> Undefined variable: intRegion /usr/www/users/etadarwskd/application/controllers/Users.php 121
+ERROR - 2015-06-30 18:33:40 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:36:40 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:45:11 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:45:26 --> Query error: Duplicate entry '7109035260084' for key 'passportNumberUser_UNIQUE' - Invalid query: INSERT INTO `Users` (`titleUser`, `nameUser`, `surnameUser`, `designationUser`, `emailUser`, `telephoneUser`, `mobileUser`, `fkidUserRole`, `enabledUser`, `creationDate`, `passportNumberUser`, `cityUser`, `fkidUserRegion`, `fkidUserCountry`, `fkidUserLanguage`, `loginPasswordHash`, `loginPasswordSalt`) VALUES ('Mr', 'Steven', 'Terblanche', 'Technical Software Architect', 'test@test.com', '011-478-1314', '0732964558', '3', 1, '2015-06-30 18:45:26', '7109035260084', 'Johannesburg', '13', '202', '1', '0af1963dcf2f0461b9d0f684e6a2b408936224864dbce74b137386646dcd8bdc2e3470c0daaa7b6a4a5ca6bd8fbb70f85c20a06e159bd75ebc1c77cecedc44b8', 'cceeedf8e7e3d6c951806264175bfb54c7aced1e76995e11feae54b832eb456d935a071b7105f4967c9f97e5002c49748f0319c0ee6016215096794d59c5cf2f')
+ERROR - 2015-06-30 18:50:10 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:50:13 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:52:27 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:54:14 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:59:27 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 18:59:32 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 19:04:16 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-30 19:04:25 --> 404 Page Not Found: Playlists/index
+ERROR - 2015-06-30 19:04:26 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-30 19:11:25 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-06-30 19:13:11 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54

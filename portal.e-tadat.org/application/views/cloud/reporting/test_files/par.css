@@ -1,0 +1,762 @@
+/* -----------------------------------------
+	COLORS:
+	Light Blue: #0f77bd
+	Dark Blue: 	#125b8c
+	Orange: 	#f47409
+	Light Green:#79b833
+	Dark Green: #008a3d
+	Red: 		#c10003
+----------------------------------------- */
+
+
+/* -----------------SPIDER CHART ------------------------*/
+
+#chart-body { 
+	width:915px !important;
+	height:630px !important;
+	margin:0px !important;
+	padding:0px !important; 
+}
+
+#chart{
+	margin:0px !important;
+	padding:0px !important;
+	height:630px !important;
+	width:630px !important;	
+	float:left !important;
+}
+
+#svg-container {
+	margin:0px !important;
+	padding:0px !important;
+	background-color:# 000;
+	height:630px !important;
+	width:630px !important;		
+}
+
+#div-legend{
+	float:right; 
+	margin:0px !important;
+	margin-top:15px !important;
+	padding:0px !important;	
+	height:550px !important; 
+	width:270px !important; 
+	display:inline-block;
+}
+
+#table-executive-legend{
+	width:270px !important;
+    border-collapse: separate;
+    border-spacing: 0px;
+	font-size: 10px !important;
+}
+
+.table-executive-small-legend{
+	height:7px !important;
+	width:7px !important;	
+}
+
+.table-executive-legend-heading{
+	color: #1075ba !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+
+.legend-poa-heading{
+	font-size:11px !important;
+	font-weight:bold !important;
+}
+/* -------------------- POA 1 ----------------------------- */
+#table-executive-legend tr:nth-child(2) td:nth-child(1) div{
+	background-color:#0a9345 !important;
+	height:12px !important;
+	width:12px !important;
+	margin-right:5px !important;	
+}
+
+#table-executive-legend tr:nth-child(3) td:nth-child(2) div{
+	background-color:#0a9345 !important;
+	height:8px !important;
+	width:8px !important;
+}
+
+#table-executive-legend tr:nth-child(3) td:nth-child(2){
+	height:10px !important;
+	width:10px !important;
+}
+
+#table-executive-legend tr:nth-child(3) td:nth-child(3){
+	width:30px !important;
+}
+
+#table-executive-legend tr:nth-child(3) td:nth-child(4){
+	width:5px !important;
+}
+
+
+#table-executive-legend tr:nth-child(4) td:nth-child(2) div{
+	background-color:#0a9345 !important;
+	height:8px !important;
+	width:8px !important;
+}
+
+#table-executive-legend tr:nth-child(4) td:nth-child(2){
+	height:10px !important;
+	width:10px !important;
+}
+
+#table-executive-legend tr:nth-child(4) td:nth-child(3){
+	width:30px !important;
+}
+
+#table-executive-legend tr:nth-child(4) td:nth-child(4){
+	width:5px !important;
+}
+
+/* -------------------- POA 2 ----------------------------- */
+#table-executive-legend tr:nth-child(5) td:nth-child(1) div{
+	background-color:#8ac543 !important;
+	height:12px !important;
+	width:12px !important;
+	margin-right:5px !important;			
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(6) td:nth-child(2) div{
+		background-color:#8ac543 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(6) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(6) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(6) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(7) td:nth-child(2) div{
+		background-color:#8ac543 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(7) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(7) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(7) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(8) td:nth-child(2) div{
+		background-color:#8ac543 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(8) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(8) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(8) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(9) td:nth-child(2) div{
+		background-color:#8ac543 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(9) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(9) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(9) td:nth-child(4){
+		width:5px !important;
+	}
+
+/* -------------------- POA 3 ----------------------------- */
+#table-executive-legend tr:nth-child(10) td:nth-child(1) div{
+	background-color:#6ccff5 !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(11) td:nth-child(2) div{
+		background-color:#6ccff5 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(11) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(11) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(11) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(12) td:nth-child(2) div{
+		background-color:#6ccff5 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(12) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(12) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(12) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(13) td:nth-child(2) div{
+		background-color:#6ccff5 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(13) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(13) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(13) td:nth-child(4){
+		width:5px !important;
+	}
+
+/* -------------------- POA 4 ----------------------------- */
+#table-executive-legend tr:nth-child(14) td:nth-child(1) div{
+	background-color:#25aae0 !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(15) td:nth-child(2) div{
+		background-color:#25aae0 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(15) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(15) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(15) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(16) td:nth-child(2) div{
+		background-color:#25aae0 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(16) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(16) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(16) td:nth-child(4){
+		width:5px !important;
+	}
+
+/* -------------------- POA 5 ----------------------------- */
+#table-executive-legend tr:nth-child(17) td:nth-child(1) div{
+	background-color:#1175ba !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(18) td:nth-child(2) div{
+		background-color:#1175ba !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(18) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(18) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(18) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(19) td:nth-child(2) div{
+		background-color:#1175ba !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(19) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(19) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(19) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(20) td:nth-child(2) div{
+		background-color:#1175ba !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(20) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(20) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(20) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(21) td:nth-child(2) div{
+		background-color:#1175ba !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(21) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(21) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(21) td:nth-child(4){
+		width:5px !important;
+	}
+
+/* -------------------- POA 6 ----------------------------- */
+#table-executive-legend tr:nth-child(22) td:nth-child(1) div{
+	background-color:#29388f !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(23) td:nth-child(2) div{
+		background-color:#29388f !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(23) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(23) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(23) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(24) td:nth-child(2) div{
+		background-color:#29388f !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(24) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(24) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(24) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(25) td:nth-child(2) div{
+		background-color:#29388f !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(25) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(25) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(25) td:nth-child(4){
+		width:5px !important;
+	}
+
+/* -------------------- POA 7 ----------------------------- */
+#table-executive-legend tr:nth-child(26) td:nth-child(1) div{
+	background-color:#5c2e8a !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(27) td:nth-child(2) div{
+		background-color:#5c2e8a !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(27) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(27) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(27) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(28) td:nth-child(2) div{
+		background-color:#5c2e8a !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(28) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(28) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(28) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(29) td:nth-child(2) div{
+		background-color:#5c2e8a !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(29) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(29) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(29) td:nth-child(4){
+		width:5px !important;
+	}
+
+/* -------------------- POA 8 ----------------------------- */
+#table-executive-legend tr:nth-child(30) td:nth-child(1) div{
+	background-color:#be1e2d !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(31) td:nth-child(2) div{
+		background-color:#be1e2d !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(31) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(31) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(31) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(32) td:nth-child(2) div{
+		background-color:#be1e2d !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(32) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(32) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(32) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(33) td:nth-child(2) div{
+		background-color:#be1e2d !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(33) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(33) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(33) td:nth-child(4){
+		width:5px !important;
+	}
+
+/* -------------------- POA 9 ----------------------------- */
+#table-executive-legend tr:nth-child(34) td:nth-child(1) div{
+	background-color:#f69322 !important;
+	height:12px !important;
+	width:12px !important;	
+	margin-right:5px !important;		
+}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(35) td:nth-child(2) div{
+		background-color:#f69322 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(35) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(35) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(35) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(36) td:nth-child(2) div{
+		background-color:#f69322 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(36) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(36) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(36) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(37) td:nth-child(2) div{
+		background-color:#f69322 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(37) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(37) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(37) td:nth-child(4){
+		width:5px !important;
+	}
+	/*-------------------START DIV ----------------------------*/
+	#table-executive-legend tr:nth-child(38) td:nth-child(2) div{
+		background-color:#f69322 !important;
+		height:8px !important;
+		width:8px !important;
+	}
+	#table-executive-legend tr:nth-child(38) td:nth-child(2){
+		height:10px !important;
+		width:10px !important;
+	}
+	#table-executive-legend tr:nth-child(38) td:nth-child(3){
+		width:30px !important;
+	}
+	#table-executive-legend tr:nth-child(38) td:nth-child(4){
+		width:5px !important;
+	}
+
+
+	.table-td-poa-legend-block-large{
+		width:10px !important;
+		padding:2px !important;
+	}
+	
+	.par-full-width-div{
+		width:915px !important;
+		clear: left !important;
+	}
+	
+	.par-heading-half-width-div{
+		width:450px !important;
+		margin-top:0px !important;
+		margin-bottom:10px !important;
+		float:none !important;	
+	}
+	
+	.par-heading-full-width-div{
+		width:915px !important;
+		margin-top:5px !important;
+		margin-bottom:5px !important;
+		display:block !important;
+		float:none !important;	
+	}
+
+	.par-heading-full-width-div p{
+	
+	}
+	
+	.par-heading-full-width-div h1{
+		font-size:22px !important;
+		margin-top:0px !important;
+		color:#1075ba !important;
+		padding:0px !important;
+		font-weight:bold !important;
+	}
+	.par-heading-full-width-div h2{
+		font-size:14px !important;
+		color:#1075ba !important;
+		margin-top:8px !important;
+		margin-bottom:0px !important;
+		padding:0px !important;
+		padding-top:5px !important;		
+		font-weight:bold !important;
+	}
+	
+	.par-heading-half-width-div h1{
+		font-size:14px !important;
+		color:#1075ba !important;
+		padding:8px !important;
+		padding-left:0px !important;
+		padding-top:20px !important;
+		margin:0px !important;
+		font-weight:bold !important;
+	}
+	.par-heading-half-width-div h2{
+		font-size:14px !important;
+		color:#1075ba !important;
+		padding:8px !important;
+		padding-left:0px !important;		
+		padding-top:20px !important;
+		margin:0px !important;
+		font-weight:bold !important;
+	}
+	
+
+/*------------------------------- INTRODUCTION --------------------------*/
+#introduction-div ul>li{
+	margin-bottom:10px !important}
+
+
+
+/*------------------------------- EXECUTIVE SUMMARY --------------------------*/
+#table-executive-1{
+	width:915px !important;
+	padding:2px !important
+}
+
+#table-executive-1 td{
+	padding:2px !important;
+	padding-left:7px !important;
+	border:1px #FFF solid !important;
+	background-color:#dcf0f4 !important;
+}
+
+#table-executive-1 th{
+	font-size:14px !important;
+	background-color:#1075ba !important;
+	border:1px #FFF solid !important;
+	color:#FFF !important;
+	padding:4px !important;
+	text-align:center;
+	font-weight:bold !important;
+}
+
+
+#table-executive-1 .poa-heading{
+	font-size:14px !important;
+	background-color:#68c9d2 !important; 
+	color:#FFF !important;
+	text-align:left !important;
+	font-weight:bold !important;
+} 
+
+#table-executive-1 .center{
+	text-align:center !important;
+} 
+
+
+/*--------------------------------------TABLE OF CONTENTS------------------------------------------------*/
+#t-o-c {
+	list-style: none;
+	margin-bottom: 20px;
+	margin-left:0px !important;
+	padding-left:0px !important;
+	
+}
+#t-o-c li {
+	background: url("../../../etadat/reporting/test_files/images/dot.gif") repeat-x bottom left;
+	overflow: hidden;
+	padding-bottom: 2px;
+}
+
+.no-leader {
+	color: #0f77bd !important;
+	padding-left:2px;
+	padding-right:0px;	
+	padding-top:5px;		
+	padding-bottom:10px;		
+	background: none !important;	
+}
+
+#t-o-c a,
+#t-o-c span {
+	display: inline-block;
+	background: #fff;
+	position: relative;
+	bottom: -4px;
+}
+#t-o-c a {
+	float: right;
+	padding: 0 0 3px 2px;
+}
+#t-o-c span {
+	float: left;
+	padding: 0 2px 3px 0;
+}
+
+.table-without-border, .table-without-border td{
+	border:1px solid #BBB;
+}
+
+/*---------------------------GENEREAL ASSETS---------------------------*/
+.editable{ color:#069 !important; font-style:italic !important}
+
+.panel-par-bg {
+   	background: url("../../../etadat/reporting/test_files/images/par_coloured_header-web.jpg") repeat-x bottom left;
+    border-color: #125b8c !important;
+    color: #fff !important;
+}
+.col-md-6-par{ padding-left:0px !important}
+
+
+
+#mceu_0{ color:#900 !important}
+#par-attention-text p{ color:#900 !important}

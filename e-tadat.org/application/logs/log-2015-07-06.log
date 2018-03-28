@@ -1,0 +1,293 @@
+ERROR - 2015-07-06 00:00:32 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-07-06 00:00:37 --> 404 Page Not Found: Users/4
+ERROR - 2015-07-06 00:00:37 --> 404 Page Not Found: Themes/core
+ERROR - 2015-07-06 00:27:01 --> Severity: Warning --> Illegal string offset 'code' /usr/www/users/etadarwskd/application/views/missions/view.php 66
+ERROR - 2015-07-06 00:27:01 --> Severity: Warning --> Illegal string offset 'name' /usr/www/users/etadarwskd/application/views/missions/view.php 67
+ERROR - 2015-07-06 00:29:33 --> Severity: Warning --> Illegal string offset 'code' /usr/www/users/etadarwskd/application/views/missions/view.php 68
+ERROR - 2015-07-06 00:29:33 --> Severity: Warning --> Illegal string offset 'name' /usr/www/users/etadarwskd/application/views/missions/view.php 69
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Undefined variable: user /usr/www/users/etadarwskd/application/views/missions/modify.php 28
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/modify.php 28
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Undefined variable: user /usr/www/users/etadarwskd/application/views/missions/modify.php 29
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/modify.php 29
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Undefined variable: user /usr/www/users/etadarwskd/application/views/missions/modify.php 30
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/modify.php 30
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Undefined variable: user /usr/www/users/etadarwskd/application/views/missions/modify.php 31
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/modify.php 31
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Undefined variable: user /usr/www/users/etadarwskd/application/views/missions/modify.php 32
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/modify.php 32
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Undefined variable: user /usr/www/users/etadarwskd/application/views/missions/modify.php 33
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/modify.php 33
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Undefined variable: user /usr/www/users/etadarwskd/application/views/missions/modify.php 34
+ERROR - 2015-07-06 00:41:21 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/modify.php 34
+ERROR - 2015-07-06 00:41:35 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-06 00:46:32 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-06 00:51:06 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-06 01:04:47 --> Severity: Notice --> Undefined variable: assessment_period_select /usr/www/users/etadarwskd/application/views/missions/modify.php 77
+ERROR - 2015-07-06 01:06:37 --> Could not find the language line "form_validation_users"
+ERROR - 2015-07-06 01:06:37 --> Could not find the language line "form_validation_users"
+ERROR - 2015-07-06 01:06:37 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-06 01:18:46 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-06 01:19:41 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-06 01:39:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Missions.php:77) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-07-06 01:39:01 --> Severity: Error --> Call to undefined method Missions_model::create_mission() /usr/www/users/etadarwskd/application/controllers/Missions.php 77
+ERROR - 2015-07-06 01:50:51 --> Severity: Error --> Call to a member function result() on array /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Undefined variable: Authority Name /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:10:49 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'idMissionAuthority' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'activeMission' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'activeMission' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'nameMissionAuthority' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'nameAuthorityContact' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'surnameAuthorityContact' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'addressStreetAuthority' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'addressSuburbAuthority' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'addressCityAuthority' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:15:39 --> Severity: Warning --> Illegal string offset 'fkidMissionCountry' /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:15:39 --> Severity: Notice --> Undefined index: A /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$idMissionAuthority /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$activeMission /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$activeMission /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$nameMissionAuthority /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$nameAuthorityContact /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$surnameAuthorityContact /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: 4096 --> Object of class mysqli could not be converted to string /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Object of class mysqli to string conversion /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined variable: Object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$addressSuburbAuthority /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$addressCityAuthority /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli::$fkidMissionCountry /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$idMissionAuthority /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$activeMission /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$activeMission /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$nameMissionAuthority /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$nameAuthorityContact /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$surnameAuthorityContact /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: 4096 --> Object of class mysqli_result could not be converted to string /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Object of class mysqli_result to string conversion /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined variable: Object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$addressSuburbAuthority /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$addressCityAuthority /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined property: mysqli_result::$fkidMissionCountry /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Array to string conversion /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined variable: Array /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Array to string conversion /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined variable: Array /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Array to string conversion /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined variable: Array /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined variable: 0 /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined variable: 1 /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined variable:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:00 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:31:45 --> Severity: Error --> Call to undefined method CI_DB_mysqli_result::results() /usr/www/users/etadarwskd/application/views/missions/authority_view.php 59
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: 1 /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: Authority Name /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: Contact Name /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: Contact Surname /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: Authority Street Address /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: Authority Suburb /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: Authority City /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: 179 /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 61
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 68
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 69
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined variable: 2015-07-05 22:17:38 /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:32:38 --> Severity: Notice --> Undefined index:  /usr/www/users/etadarwskd/application/views/missions/authority_view.php 71
+ERROR - 2015-07-06 02:34:26 --> Severity: Notice --> Undefined property: stdClass::$activeMission /usr/www/users/etadarwskd/application/views/missions/authority_view.php 63
+ERROR - 2015-07-06 02:34:26 --> Severity: Notice --> Undefined property: stdClass::$activeMission /usr/www/users/etadarwskd/application/views/missions/authority_view.php 64
+ERROR - 2015-07-06 02:34:26 --> Severity: 4096 --> Object of class stdClass could not be converted to string /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:34:26 --> Severity: Notice --> Object of class stdClass to string conversion /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:34:26 --> Severity: Notice --> Undefined variable: Object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:34:26 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 70
+ERROR - 2015-07-06 02:36:07 --> Severity: 4096 --> Object of class stdClass could not be converted to string /usr/www/users/etadarwskd/application/views/missions/authority_view.php 67
+ERROR - 2015-07-06 02:36:07 --> Severity: Notice --> Object of class stdClass to string conversion /usr/www/users/etadarwskd/application/views/missions/authority_view.php 67
+ERROR - 2015-07-06 02:36:07 --> Severity: Notice --> Undefined variable: Object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 67
+ERROR - 2015-07-06 02:36:07 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/views/missions/authority_view.php 67
+ERROR - 2015-07-06 02:39:18 --> Severity: Notice --> Undefined variable: intUMission /usr/www/users/etadarwskd/application/controllers/Missions.php 220
+ERROR - 2015-07-06 02:39:18 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/helpers/url_helper.php 564
+ERROR - 2015-07-06 02:39:24 --> Could not find the language line "login error authentication_error"

@@ -1,0 +1,348 @@
+ERROR - 2015-06-27 00:10:55 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-27 05:52:58 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2015-06-27 05:52:58 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-06-27 06:41:45 --> 404 Page Not Found: Browserconfigxml/index
+ERROR - 2015-06-27 06:41:48 --> 404 Page Not Found: Login/apple-touch-icon-precomposed.png
+ERROR - 2015-06-27 08:48:31 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:31 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:31 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:31 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:31 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:31 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:31 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-27 08:48:36 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:36 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:36 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:36 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:36 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:36 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 08:48:36 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-27 10:20:12 --> 404 Page Not Found: ScreensAssign/index
+ERROR - 2015-06-27 10:20:13 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-27 11:04:39 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:04:45 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:04:47 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:04:52 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:05:57 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:06:03 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:06:08 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:06:12 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:06:18 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:06:18 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:06:18 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:06:18 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:06:18 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:06:18 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:06:18 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-27 11:06:18 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:06:22 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:06:24 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:18:34 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:43:31 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:44:56 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:45:37 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:51:37 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:51:42 --> Severity: Parsing Error --> syntax error, unexpected ';' /usr/www/users/etadarwskd/application/views/users/view.php 49
+ERROR - 2015-06-27 11:52:08 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:53:34 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:53:37 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:53:42 --> 404 Page Not Found: Users/able
+ERROR - 2015-06-27 11:53:43 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-27 11:53:45 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:53:59 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 11:54:05 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:54:05 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:54:05 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:54:05 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:54:05 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:54:05 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 11:54:05 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-27 11:54:05 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:04:59 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:05:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/models/Users_model.php:130) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 12:05:08 --> Severity: Error --> Call to undefined method Users_model::db() /usr/www/users/etadarwskd/application/models/Users_model.php 130
+ERROR - 2015-06-27 12:06:09 --> 404 Page Not Found: Users/view
+ERROR - 2015-06-27 12:06:09 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-27 12:06:15 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:06:20 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:06:36 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:06:41 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:06:47 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:06:49 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:06:51 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:07:15 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:08:11 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:08:12 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:08:20 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 12:08:20 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 12:08:20 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 12:08:20 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 12:08:20 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 12:08:20 --> Could not find the language line "form_validation_users"
+ERROR - 2015-06-27 12:08:20 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-06-27 12:08:20 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:23:41 --> Severity: Parsing Error --> syntax error, unexpected ';', expecting ')' /usr/www/users/etadarwskd/application/controllers/Users.php 70
+ERROR - 2015-06-27 12:23:52 --> Severity: Parsing Error --> syntax error, unexpected ''title_user'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) /usr/www/users/etadarwskd/application/models/Users_model.php 115
+ERROR - 2015-06-27 12:24:15 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:24:19 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:25:51 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:26:56 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/controllers/Users.php:70) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 12:26:56 --> Severity: Error --> Call to undefined function post() /usr/www/users/etadarwskd/application/controllers/Users.php 70
+ERROR - 2015-06-27 12:27:19 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:27:44 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:27:50 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:27:55 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:27:57 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:29:08 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:32:41 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:32:49 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:43:38 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 12:43:54 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 13:28:04 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/application/core/MY_Controller.php:37) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 13:28:04 --> Severity: Error --> Call to undefined function build_template_menu() /usr/www/users/etadarwskd/application/core/MY_Controller.php 37
+ERROR - 2015-06-27 13:29:59 --> Severity: Notice --> Undefined variable: template_types_menu /usr/www/users/etadarwskd/themes/core/template.php 97
+ERROR - 2015-06-27 13:29:59 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 13:30:24 --> Severity: Notice --> Undefined variable: template_types_menu /usr/www/users/etadarwskd/themes/core/template.php 105
+ERROR - 2015-06-27 13:30:24 --> Severity: Warning --> Invalid argument supplied for foreach() /usr/www/users/etadarwskd/themes/core/template.php 105
+ERROR - 2015-06-27 13:30:24 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 13:32:57 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Loader.php:305) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 13:32:57 --> Severity: Error --> Class 'Templates_model' not found /usr/www/users/etadarwskd/system/core/Loader.php 305
+ERROR - 2015-06-27 13:33:25 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Loader.php:305) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 13:33:25 --> Severity: Error --> Class 'Templates_model' not found /usr/www/users/etadarwskd/system/core/Loader.php 305
+ERROR - 2015-06-27 13:34:31 --> Severity: Notice --> Undefined variable: template_types_menu /usr/www/users/etadarwskd/themes/core/template.php 105
+ERROR - 2015-06-27 13:34:31 --> Severity: Warning --> Invalid argument supplied for foreach() /usr/www/users/etadarwskd/themes/core/template.php 105
+ERROR - 2015-06-27 13:34:31 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 13:37:25 --> Severity: Notice --> Undefined variable: objQ /usr/www/users/etadarwskd/application/models/Templates_model.php 30
+ERROR - 2015-06-27 13:37:25 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 13:37:25 --> Severity: Error --> Call to a member function num_rows() on null /usr/www/users/etadarwskd/application/models/Templates_model.php 30
+ERROR - 2015-06-27 13:37:57 --> Severity: Notice --> Undefined variable: template_types_menu /usr/www/users/etadarwskd/themes/core/template.php 97
+ERROR - 2015-06-27 13:37:57 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 13:42:09 --> Severity: Notice --> Undefined variable: template_types_menu /usr/www/users/etadarwskd/themes/core/template.php 97
+ERROR - 2015-06-27 13:42:09 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 13:44:13 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Users.php 18
+ERROR - 2015-06-27 13:44:33 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Users.php 18
+ERROR - 2015-06-27 13:44:58 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Users.php 18
+ERROR - 2015-06-27 13:45:46 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/controllers/Users.php 5
+ERROR - 2015-06-27 13:46:08 --> Severity: Parsing Error --> syntax error, unexpected '$MY_Controller' (T_VARIABLE) /usr/www/users/etadarwskd/application/controllers/Users.php 5
+ERROR - 2015-06-27 13:46:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/CodeIgniter.php:265) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 13:46:16 --> Severity: Error --> Undefined class constant 'MY_Controller::content_data' /usr/www/users/etadarwskd/system/core/CodeIgniter.php 265
+ERROR - 2015-06-27 13:46:27 --> Severity: Parsing Error --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' /usr/www/users/etadarwskd/application/controllers/Users.php 5
+ERROR - 2015-06-27 13:46:37 --> Severity: Parsing Error --> syntax error, unexpected '$MY_Controller' (T_VARIABLE) /usr/www/users/etadarwskd/application/controllers/Users.php 5
+ERROR - 2015-06-27 13:46:48 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Users.php 21
+ERROR - 2015-06-27 13:47:08 --> Severity: Notice --> Undefined variable: template_types_menu /usr/www/users/etadarwskd/themes/core/template.php 97
+ERROR - 2015-06-27 13:47:08 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 13:47:26 --> Severity: Notice --> Undefined variable: template_types_menu /usr/www/users/etadarwskd/themes/core/template.php 105
+ERROR - 2015-06-27 13:47:26 --> Severity: Warning --> Invalid argument supplied for foreach() /usr/www/users/etadarwskd/themes/core/template.php 105
+ERROR - 2015-06-27 13:47:26 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 13:50:41 --> Severity: Runtime Notice --> Accessing static property Users::$content_data as non static /usr/www/users/etadarwskd/application/core/MY_Controller.php 40
+ERROR - 2015-06-27 13:50:41 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Users.php 21
+ERROR - 2015-06-27 13:51:06 --> Severity: Runtime Notice --> Accessing static property Users::$content_data as non static /usr/www/users/etadarwskd/application/core/MY_Controller.php 40
+ERROR - 2015-06-27 13:51:06 --> Severity: Runtime Notice --> Accessing static property Users::$content_data as non static /usr/www/users/etadarwskd/application/controllers/Users.php 21
+ERROR - 2015-06-27 13:51:21 --> Severity: Runtime Notice --> Accessing static property Users::$content_data as non static /usr/www/users/etadarwskd/application/core/MY_Controller.php 40
+ERROR - 2015-06-27 13:51:21 --> Severity: Notice --> Undefined variable: MY_Controller /usr/www/users/etadarwskd/application/controllers/Users.php 21
+ERROR - 2015-06-27 13:51:21 --> Severity: Notice --> Trying to get property of non-object /usr/www/users/etadarwskd/application/controllers/Users.php 21
+ERROR - 2015-06-27 13:51:34 --> Severity: Runtime Notice --> Accessing static property Users::$content_data as non static /usr/www/users/etadarwskd/application/core/MY_Controller.php 40
+ERROR - 2015-06-27 13:51:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 13:51:34 --> Severity: Error --> Undefined class constant 'content_data' /usr/www/users/etadarwskd/application/controllers/Users.php 21
+ERROR - 2015-06-27 13:51:40 --> Severity: Runtime Notice --> Accessing static property Users::$content_data as non static /usr/www/users/etadarwskd/application/core/MY_Controller.php 40
+ERROR - 2015-06-27 13:52:51 --> Severity: Notice --> Undefined variable: template_types_menu /usr/www/users/etadarwskd/themes/core/template.php 105
+ERROR - 2015-06-27 13:52:51 --> Severity: Warning --> Invalid argument supplied for foreach() /usr/www/users/etadarwskd/themes/core/template.php 105
+ERROR - 2015-06-27 13:52:51 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:05:29 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:14:51 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:18:05 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:18:27 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:18:47 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:19:00 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:19:18 --> 404 Page Not Found: Templates/index
+ERROR - 2015-06-27 14:19:18 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-27 14:19:21 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:20:30 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:33:12 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:33:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN  ON .`idUserRole` = .`fkidUserRole`
+ORDER BY `nameUser` ASC' at line 2 - Invalid query: SELECT *
+JOIN  ON .`idUserRole` = .`fkidUserRole`
+ORDER BY `nameUser` ASC
+ERROR - 2015-06-27 14:38:05 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:40:01 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:40:07 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:40:11 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:40:14 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:40:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN  ON .`idUserRole` = .`fkidUserRole`
+ORDER BY `nameUser` ASC' at line 2 - Invalid query: SELECT *
+JOIN  ON .`idUserRole` = .`fkidUserRole`
+ORDER BY `nameUser` ASC
+ERROR - 2015-06-27 14:44:29 --> Query error: Not unique table/alias: 'Templates' - Invalid query: SELECT *
+FROM `Templates`
+JOIN `Templates` ON `TemplateTypes`.`idTemplateTypes` = `TemplateTypes`.`fkidTemplateType`
+ORDER BY `nameTemplates` ASC
+ERROR - 2015-06-27 14:46:32 --> Severity: Notice --> Undefined property: Templates::$_tblTemplatesTypes /usr/www/users/etadarwskd/system/core/Model.php 77
+ERROR - 2015-06-27 14:46:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON `TemplateTypes`.`idTemplateTypes` = `TemplateTypes`.`fkidTemplateType`
+ORDER ' at line 3 - Invalid query: SELECT *
+FROM `Templates`
+JOIN  ON `TemplateTypes`.`idTemplateTypes` = `TemplateTypes`.`fkidTemplateType`
+ORDER BY `nameTemplates` ASC
+ERROR - 2015-06-27 14:46:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/core/Common.php 564
+ERROR - 2015-06-27 14:46:49 --> Query error: Unknown column 'TemplateTypes.fkidTemplateType' in 'on clause' - Invalid query: SELECT *
+FROM `Templates`
+JOIN `TemplateTypes` ON `TemplateTypes`.`idTemplateTypes` = `TemplateTypes`.`fkidTemplateType`
+ORDER BY `nameTemplates` ASC
+ERROR - 2015-06-27 14:47:23 --> Severity: Error --> Cannot use object of type stdClass as array /usr/www/users/etadarwskd/application/views/templates/view.php 8
+ERROR - 2015-06-27 14:53:07 --> Severity: Notice --> Undefined property: stdClass::$idTemplateType /usr/www/users/etadarwskd/application/views/templates/view.php 71
+ERROR - 2015-06-27 14:53:07 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:53:25 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:53:39 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:53:43 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:53:48 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:53:51 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:53:56 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 14:54:00 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 15:55:56 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 15:56:00 --> 404 Page Not Found: Templates/add
+ERROR - 2015-06-27 15:56:00 --> 404 Page Not Found: Themes/core
+ERROR - 2015-06-27 15:56:54 --> Severity: Notice --> Undefined variable: intUUser /usr/www/users/etadarwskd/application/controllers/Templates.php 51
+ERROR - 2015-06-27 15:56:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/helpers/url_helper.php 564
+ERROR - 2015-06-27 15:57:28 --> Severity: Notice --> Undefined variable: intUUser /usr/www/users/etadarwskd/application/controllers/Templates.php 51
+ERROR - 2015-06-27 15:57:28 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/helpers/url_helper.php 564
+ERROR - 2015-06-27 15:57:51 --> Severity: Notice --> Undefined variable: intUUser /usr/www/users/etadarwskd/application/controllers/Templates.php 51
+ERROR - 2015-06-27 15:57:51 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /usr/www/users/etadarwskd/system/core/Exceptions.php:272) /usr/www/users/etadarwskd/system/helpers/url_helper.php 564
+ERROR - 2015-06-27 15:58:21 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 15:59:18 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 15:59:21 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Templates.php 115
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 15:59:54 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 15:59:54 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Templates.php 115
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 16:00:35 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 16:00:35 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Templates.php 115
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 16:03:56 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 16:03:56 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Templates.php 115
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 16:04:00 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 16:04:00 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Templates.php 115
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 16:31:28 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 16:31:28 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:39:59 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /usr/www/users/etadarwskd/application/controllers/Templates.php 81
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Templates.php 90
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 16:40:38 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 16:40:38 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: content_data /usr/www/users/etadarwskd/application/controllers/Templates.php 90
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 16:42:09 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 16:42:09 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 16:42:32 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 16:42:32 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 30
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 31
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 32
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 33
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 34
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 35
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 36
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 37
+ERROR - 2015-06-27 16:42:53 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 38
+ERROR - 2015-06-27 16:42:54 --> Severity: Notice --> Undefined variable: action /usr/www/users/etadarwskd/application/views/users/modify.php 39
+ERROR - 2015-06-27 16:42:54 --> Severity: Notice --> Undefined variable: uri /usr/www/users/etadarwskd/application/views/users/modify.php 66
+ERROR - 2015-06-27 16:42:54 --> Severity: Notice --> Undefined variable: all_roles /usr/www/users/etadarwskd/application/views/users/modify.php 74
+ERROR - 2015-06-27 16:42:54 --> Severity: Notice --> Undefined variable: all_languages /usr/www/users/etadarwskd/application/views/users/modify.php 76
+ERROR - 2015-06-27 16:42:54 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:43:08 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:43:17 --> Could not find the language line "menu users manage_users"
+ERROR - 2015-06-27 16:44:08 --> Could not find the language line "menu users manage_users"

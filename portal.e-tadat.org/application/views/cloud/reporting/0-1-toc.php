@@ -1,0 +1,76 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); 
+	$encrypted_mission_id = base64_encode($this->encrypt->encode($mission_id));
+?>
+	<div class="par-heading-full-width-div"><h1>Table of Contents</h1></div>
+<ul id="t-o-c">
+		<li><span style="padding-left:0px !important; font-weight:900 !important; font-size:13px !important; margin-top:5px !important"><a href="<? echo base_url('reporting/abbreviations/?id=' . $encrypted_mission_id); ?>">ABBREVIATIONS AND ACRONYMS</a></span></li>
+		<li><span style="padding-left:0px !important; font-weight:900 !important; font-size:13px !important; margin-top:5px !important"><a href="<? echo base_url('reporting/preface/?id=' . $encrypted_mission_id); ?>">PREFACE</a></span></li>
+		<li><span style="padding-left:0px !important; font-weight:900 !important; font-size:13px !important; margin-top:5px !important"><a href="<? echo base_url('reporting/executive/?id=' . $encrypted_mission_id); ?>">EXECUTIVE SUMMARY</a></span></li>		
+		<li><span style="padding-left:0px !important; font-weight:900 !important; font-size:13px !important; margin-top:5px !important"><a href="<? echo base_url('reporting/introduction/?id=' . $encrypted_mission_id); ?>">I. INTRODUCTION</a></span></li>
+		<li class="no-leader"><span style="padding-left:0px !important; font-weight:900 !important; font-size:13px !important;"><span>II. COUNTRY BACKGROUND INFORMATION</span></li>
+			<li><span style="padding-left:20px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/profile/?id=' . $encrypted_mission_id); ?>">A. Country Profile</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; color:#0f77bd !important;">B. Data Tables</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table1/?id=' . $encrypted_mission_id); ?>">Table 1. Tax Revenue Collections Table</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table2/?id=' . $encrypted_mission_id); ?>">Table 2. Movements in the Taxpayer Register</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table3/?id=' . $encrypted_mission_id); ?>">Table 3. Telephone Enquiry Call Waiting Time</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table4/?id=' . $encrypted_mission_id); ?>">Table 4. On-Time Filing of CIT Declarations</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table5/?id=' . $encrypted_mission_id); ?>">Table 5. On-Time Filing of PIT Declarations</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table6/?id=' . $encrypted_mission_id); ?>">Table 6. On-Time Filing of VAT Declarations—All VAT taxpayers</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table7/?id=' . $encrypted_mission_id); ?>">Table 7. On-Time Filing of VAT Declarations—Large taxpayers only</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table8/?id=' . $encrypted_mission_id); ?>">Table 8. On-Time Filing of PAYE Withholding Declarations (filed by employers)</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table9/?id=' . $encrypted_mission_id); ?>">Table 9. Use of Electronic Services</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table10/?id=' . $encrypted_mission_id); ?>">Table 10. VAT Payments</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table11/?id=' . $encrypted_mission_id); ?>">Table 11. Value of Tax Arrears</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table12/?id=' . $encrypted_mission_id); ?>">Table 12. Finalization of Administrative Reviews</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/table13/?id=' . $encrypted_mission_id); ?>">Table 13. VAT Refunds</a></span></li>
+			<li><span style="padding-left:20px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/economic/?id=' . $encrypted_mission_id); ?>">C. Economic Situation</a></span></li>
+			<li><span style="padding-left:20px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/taxes/?id=' . $encrypted_mission_id); ?>">D. Main Taxes</a></span></li>
+			<li><span style="padding-left:20px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/institutional/?id=' . $encrypted_mission_id); ?>">E. Institutional Framework</a></span></li>
+			<li><span style="padding-left:20px !important"><a style="color:#0f77bd  !important" href="<? echo base_url('reporting/exchange/?id=' . $encrypted_mission_id); ?>">F. International Information Exchange</a></span></li>
+		<li class="no-leader"><span style="padding-left:0px !important; font-weight:900 !important; font-size:13px !important; margin-top:5px !important">III. ASSESSMENT OF PERFORMANCE OUTCOME AREAS</span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 1: Integrity of the Registered Taxpayer Base</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_1_1/?id=' . $encrypted_mission_id); ?>">P1-1. Accurate and reliable taxpayer information</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_1_2/?id=' . $encrypted_mission_id); ?>">P1-2. Knowledge of the potential taxpayer base</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 2: Effective Risk Management</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_2_3/?id=' . $encrypted_mission_id); ?>">P2-3. Identification, assessment, ranking, and quantification of compliance risks</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_2_4/?id=' . $encrypted_mission_id); ?>">P2-4. Mitigation of risks through a compliance improvement plan</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_2_5/?id=' . $encrypted_mission_id); ?>">P2-5. Monitoring and evaluation of compliance risk mitigation activities</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_2_6/?id=' . $encrypted_mission_id); ?>">P2-6. Identification, assessment, and mitigation of institutional risks</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 3: Supporting Voluntary Compliance</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_3_7/?id=' . $encrypted_mission_id); ?>">P3-7. Scope, currency, and accessibility of information</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_3_8/?id=' . $encrypted_mission_id); ?>">P3-8. Scope of initiatives to reduce taxpayer compliance costs</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_3_9/?id=' . $encrypted_mission_id); ?>">P3-9. Obtaining taxpayer feedback on products and services</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 4: Timely Filing of Tax Declarations</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_4_10/?id=' . $encrypted_mission_id); ?>">P4-10. On-time filing rate</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_4_11/?id=' . $encrypted_mission_id); ?>">P4-11. Use of electronic filing facilities</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 5: Timely Payment of Taxes</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_5_12/?id=' . $encrypted_mission_id); ?>">P5-12. Use of electronic payment methods</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_5_13/?id=' . $encrypted_mission_id); ?>">P5-13. Use of efficient collection systems</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_5_14/?id=' . $encrypted_mission_id); ?>">P5-14. Timeliness of payments</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_5_15/?id=' . $encrypted_mission_id); ?>">P5-15. Stock and flow of tax arrears</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 6: Accurate Reporting in Declarations</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_6_16/?id=' . $encrypted_mission_id); ?>">P6-16. Scope of verification actions taken to detect and deter inaccurate reporting</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_6_17/?id=' . $encrypted_mission_id); ?>">P6-17. Extent of proactive initiatives to encourage accurate reporting</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_6_18/?id=' . $encrypted_mission_id); ?>">P6-18. Monitoring the extent of inaccurate reporting</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 7: Effective Tax Dispute Resolution</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_7_19/?id=' . $encrypted_mission_id); ?>">P7-19. Existence of an independent, workable, and graduated dispute resolution process</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_7_20/?id=' . $encrypted_mission_id); ?>">P7-20. Time taken to resolve disputes</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_7_21/?id=' . $encrypted_mission_id); ?>">P7-21. Degree to which dispute outcomes are acted upon</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 8: Efficient Revenue Management</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_8_22/?id=' . $encrypted_mission_id); ?>">P8-22. Contribution to government tax revenue forecasting process</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_8_23/?id=' . $encrypted_mission_id); ?>">P8-23. Adequacy of the tax revenue accounting system</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_8_24/?id=' . $encrypted_mission_id); ?>">P8-24. Adequacy of tax refund processing</a></span></li>
+			<li class="no-leader"><span style="padding-left:20px !important; font-weight:600 !important">POA 9: Accountability and Transparency</span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_9_25/?id=' . $encrypted_mission_id); ?>">P9-25. Internal assurance mechanisms</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_9_26/?id=' . $encrypted_mission_id); ?>">P9-26. External oversight of the tax administration</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_9_27/?id=' . $encrypted_mission_id); ?>">P9-27. Public perception of integrity</a></span></li>
+				<li><span style="padding-left:40px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/poa_9_28/?id=' . $encrypted_mission_id); ?>">P9-28. Publication of activities, results, and plans</a></span></li>
+<!--		<li class="no-leader"><span style="padding-left:0px !important; font-weight:900 !important; font-size:13px !important; margin-top:5px !important">FIGURE</span></li>-->
+<!--			<li><span style="padding-left:20px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/toc/?id=' . $encrypted_mission_id); ?>">1. Distribution of Performance Scores</a></span></li>-->
+		<li class="no-leader"><span style="padding-left:0px !important; font-weight:900 !important; font-size:13px !important; margin-top:5px !important">ATTACHMENTS</span></li>
+			<li><span style="padding-left:20px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/framework/?id=' . $encrypted_mission_id); ?>">I. TADAT Framework</a></span></li>				
+<!--			<li><span style="padding-left:20px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/toc/?id=' . $encrypted_mission_id); ?>">II. Country Snapshot</a></span>!!!!!!!!!!!!!!!!!!!</li>-->
+<!--			<li><span style="padding-left:20px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/toc/?id=' . $encrypted_mission_id); ?>">III. Data Tables</a></span>????????????????????</li>-->
+			<li><span style="padding-left:20px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/chart/?id=' . $encrypted_mission_id); ?>">IV. Organizational Chart</a></span></li>				
+			<li><span style="padding-left:20px !important"><a style="color:#0f77bd !important" href="<? echo base_url('reporting/sources/?id=' . $encrypted_mission_id); ?>">V. Sources of Evidence</a></span></li>
+	</ul>

@@ -1,0 +1,40 @@
+ERROR - 2015-07-02 08:37:35 --> Severity: Core Warning --> Module 'json' already loaded Unknown 0
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$idUser /usr/www/users/etadarwskd/application/views/templates/view.php 45
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 47
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$enabledUser /usr/www/users/etadarwskd/application/views/templates/view.php 48
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$nameTemplate /usr/www/users/etadarwskd/application/views/templates/view.php 52
+ERROR - 2015-07-02 09:28:38 --> Severity: Notice --> Undefined property: stdClass::$uinameUserRole /usr/www/users/etadarwskd/application/views/templates/view.php 54
+ERROR - 2015-07-02 09:31:46 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-02 09:31:57 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-02 09:32:06 --> Could not find the language line "login error authentication_error"
+ERROR - 2015-07-02 09:35:32 --> Could not find the language line "login error authentication_error"
